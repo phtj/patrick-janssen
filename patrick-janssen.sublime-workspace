@@ -519,6 +519,57 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 37,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 2496,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "patrick-janssen.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "research.md",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1275,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/style.scss",
+			"settings":
+			{
+				"buffer_size": 37,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -627,10 +678,17 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Dropbox/Files/Software/GitHub/patrick-janssen"
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/_layouts",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/assets",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/assets/css"
 	],
 	"file_history":
 	[
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/publications.md",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/teaching.md",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/links.md",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/_data/nav.yaml",
 		"/D/Dropbox/Files/Software/GitHub/gs-json/src/typescript/gs-json/generate/gen_test_models.ts",
 		"/D/Dropbox/Files/Software/GitHub/gs-json/src/typescript/gs-json/generate/gen_gs_test_models.ts",
 		"/D/Dropbox/Files/Software/GitHub/gs-json/src/typescript/gs-json/generate/gen_three_test_models.ts",
@@ -754,11 +812,7 @@
 		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/karma.conf.ts",
 		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/entity_obj_coniccurve.ts",
 		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/entity_obj.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/entity.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/attrib_topoattrib.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/attrib_entattrib.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/attrib.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/topo_sub.ts"
+		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/entity.ts"
 	],
 	"find":
 	{
@@ -793,8 +847,179 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "patrick-janssen.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "research.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],

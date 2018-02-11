@@ -1,3 +1,5 @@
 ---
+title: Research
 ---
-This is a test.
+
+This is the content of the research page.
