@@ -532,7 +532,7 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 2496,
+				"buffer_size": 1761,
 				"line_ending": "Windows"
 			}
 		},
@@ -548,7 +548,7 @@
 			"file": "research.md",
 			"settings":
 			{
-				"buffer_size": 24,
+				"buffer_size": 78,
 				"line_ending": "Windows"
 			}
 		},
@@ -556,7 +556,7 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 1275,
+				"buffer_size": 1276,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -884,7 +884,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2496,
+						"buffer_size": 1761,
 						"regions":
 						{
 						},
@@ -942,7 +942,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 24,
+						"buffer_size": 78,
 						"regions":
 						{
 						},
@@ -970,7 +970,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1275,
+						"buffer_size": 1276,
 						"regions":
 						{
 						},
