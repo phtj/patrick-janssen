@@ -23,7 +23,7 @@ Development of methods and tools that link parametric modelling to BIM. The link
 
 ## Spatial Computational Thinking
 
-Development of methods and tools for spatial computational thinking. 
+Development of methods and tools for computational thinking for spatial problem solving. This research focuses on pedaggogical approaches for teaching fundamental computational constructs such as abstraction, automation, and analyses to spatial problems. 
 
 
 
