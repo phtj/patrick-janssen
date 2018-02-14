@@ -2,7 +2,7 @@
 title: Home
 ---
 
-![Test](1-IMG_4903.JPG)
+![Test](./assets/images/1-IMG_4903.JPG)
 
 # Home
 
