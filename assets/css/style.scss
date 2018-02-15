@@ -3,7 +3,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto+Condensed:400,700');
 
-@import "{{ site.theme }}";
+@import minimal.scss;
 
 h1, h2, h3 {
     font-family: 'Roboto Condensed', sans-serif;
