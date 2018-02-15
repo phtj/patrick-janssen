@@ -3,7 +3,7 @@ title: Research
 ---
 # Research
 
-## Research Projects – Lead PI
+## Projects – Lead PI
 
 - 2018 – ongoing: Lead-PI, “Computational Thinking: Automated Formative Assessment of Parametric Modelling Assignments”, NUS (SGD $112K).
 - 2017 – ongoing: Lead-PI, “Smart Design: Human Centric Planning of Urban Districts”, NUS (SGD $105K).
@@ -15,7 +15,7 @@ title: Research
 - 2006 – 2008: Lead-PI, “Demonstrating the Feasibility of Designing Sustainable Buildings Using Evolutionary Systems”, Australian Research Council Discover Grant (DP0880813), (AUD $303k).
 - 2006 – 2008: Lead-PI, “Tools for sustainable design”, University of Melbourne, (AUD $25k).
 
-## Research Projects – CoPI and Collaborator
+## Projects – CoPI and Collaborator
 
 - 2017 – ongoing: Co-PI, “Strict and automatic mapping of IFC-BIM models into semantically enriched 3D CityGML building models”, NUS (SGD $1,326 K), Lead PI: Assoc Prof Rudi Stouffs.
 - 2017 – ongoing: Co-PI, “Parametric Urban Modelling for JTC’s Jurong Vision, Phase 1”, NUS (SGD $97K), Lead PI: Assoc Prof Rudi Stouffs.

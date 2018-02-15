@@ -20,11 +20,15 @@ title: Service
 - 2013: Lead organiser of a one-day industry seminar on “Parametric Architecture”, attended by 40 professionals from practice, 13th March, 2013.
 - 2011: Organiser of a one-day industry seminar on “Research & Design”, attended by 60 people, 28th October 2011.
 - 2011: Janssen, P. and Chen, K.W., “Iterative Virtual prototyping”, Conference Workshop, CAAD Futures Conference, 5th July 2011.
-- Juries
+
+## Juries
+
 - 2015: Jury member, “Forum8 Virtual Design World Cup BIM Competition”, Forum8, 18th November 2015.
 - 2013: Jury member, “The Architectural League: Parametric Modelling Design Ideas Competition”, Singapore Institute of Architects, 6th September 2013.
 - 2011: Jury member, “NUS-Hunter Douglas Award for Innovative Use of Technology in Architecture”. Hunter Douglas, Singapore, 14th October 2011.
-- Service as Reviewer
+
+## Service as Reviewer
+
 - 2016 – ongoing: Reviewer for Journal, Design Studies, Elsevier.
 - 2016 – ongoing: Reviewer for Conference, International Conference - The Symposium on Simulation for Architecture and Urban Design (SimAUD 2016).
 - 2015 – ongoing: Reviewer for Conference, International Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2015).
