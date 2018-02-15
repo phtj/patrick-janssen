@@ -48,7 +48,7 @@ title: Service
 - 2013: Ruwan Amila Fernando, Representations for evolutionary design modelling, PhD Thesis, Queensland University of Technology (QUT), August 2013.
 - Service as Chair
 - 2016: Janssen, P. (2016). Session Chair at the 21st Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2016), Session 3A: Computational Design Analysis, 24th August 2016, Melbourne, Australia.
-- 2016: Janssen, P. (2016). Session Chair at the 34th Annual Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2016), Session C2: DESIGN TOOLS | Evaluations, 31st March 2016, Oulu, Finland.
+- 2016: Janssen, P. (2016). Session Chair at the 34th Annual Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2016), Session C2: DESIGN TOOLS \| Evaluations, 31st March 2016, Oulu, Finland.
 - 2015: Janssen, P., (2015). Session Chair at the 20th Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2015), Session 2A: Design Generation, 22nd May 2015, Daegu, South Korea.
 - 2015: Janssen, P. (2015). Session Chair at the 33rd Annual Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2015), B9: Design Tools Applied, 18th September 2015, Vienna, Austria.
 - 2014: Janssen, P. (2014). Session Chair at the 6th International Conference on Design Computing and Cognition (DCC’14), Session 4: Design Processes 1, 24th June 2014, London, UK.

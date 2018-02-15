@@ -24,11 +24,15 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
-  line-height:1.1;
+  line-height:1.1em;
 }
 
 ul {
   list-style-type: circle;
+}
+
+li {
+  margin: 0.1em;
 }
 
 h1 {
