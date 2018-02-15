@@ -3,9 +3,9 @@
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto+Condensed:400,700');
 
-@import minimal.scss;
+@import "minimal";
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5 {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .nav>a {
-    color: black;
+    color: #222;
 }
 
 .nav>a:hover {
