@@ -520,19 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 37,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 1954,
+				"buffer_size": 2126,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -541,8 +532,34 @@
 			"file": "research.md",
 			"settings":
 			{
-				"buffer_size": 4396,
+				"buffer_size": 2550,
 				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "teaching.md",
+			"settings":
+			{
+				"buffer_size": 51,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "links.md",
+			"settings":
+			{
+				"buffer_size": 597,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "LICENSE",
+			"settings":
+			{
+				"buffer_size": 35147,
 				"line_ending": "Windows"
 			}
 		},
@@ -550,7 +567,16 @@
 			"file": "cv.md",
 			"settings":
 			{
-				"buffer_size": 1945,
+				"buffer_size": 1958,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 2653,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -559,7 +585,7 @@
 			"file": "service.md",
 			"settings":
 			{
-				"buffer_size": 6875,
+				"buffer_size": 7092,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -568,7 +594,7 @@
 			"file": "pubs.md",
 			"settings":
 			{
-				"buffer_size": 22276,
+				"buffer_size": 22268,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -586,7 +612,7 @@
 			"file": "assets/css/style.scss",
 			"settings":
 			{
-				"buffer_size": 635,
+				"buffer_size": 3850,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -702,10 +728,14 @@
 		"/D/Dropbox/Files/Software/GitHub/patrick-janssen",
 		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/_layouts",
 		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/assets",
-		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/assets/css"
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/assets/css",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/assets/images"
 	],
 	"file_history":
 	[
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/software.md",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/.gitignore",
+		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/assets/css/jekyll-theme-minimal.scss",
 		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/publications.md",
 		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/teaching.md",
 		"/D/Dropbox/Files/Software/GitHub/patrick-janssen/links.md",
@@ -830,10 +860,7 @@
 		"/D/Dropbox/Files/Software/GitHub/gs-json/src/typescript/gs-json/unit-tests/model.tests.ts",
 		"/C/Users/akiphtj/AppData/Roaming/npm/node_modules/babel-cli/bin/babel.js",
 		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/export/threejs/export_threejs.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/karma.conf.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/entity_obj_coniccurve.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/entity_obj.ts",
-		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/src/typescript/gs-json/utils/entity.ts"
+		"/D/Dropbox/Files/Software/GitHub/temp2/gs-json/karma.conf.ts"
 	],
 	"find":
 	{
@@ -851,6 +878,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"jur",
+			"juries",
+			"grants",
+			"    ",
+			"– ongoing  ",
 			"confe"
 		],
 		"highlight": true,
@@ -859,6 +891,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"- ",
+			": ",
+			"– ongoing: "
 		],
 		"reverse": false,
 		"show_context": true,
@@ -869,52 +904,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 8,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 37,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "_layouts/default.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1954,
+						"buffer_size": 2126,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								765,
-								765
+								813,
+								813
 							]
 						],
 						"settings":
@@ -927,137 +934,24 @@
 						"translation.y": 174.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "research.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4396,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1799,
-								1799
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1653.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "cv.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1945,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								496,
-								496
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "service.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6875,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								32,
-								32
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "pubs.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 22276,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								79,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "README.md",
+					"buffer": 1,
+					"file": "research.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1276,
+						"buffer_size": 2550,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1193,
+								1193
 							]
 						],
 						"settings":
@@ -1072,20 +966,247 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "assets/css/style.scss",
+					"buffer": 2,
+					"file": "teaching.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 635,
+						"buffer_size": 51,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								311,
-								311
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "links.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 597,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								324
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "LICENSE",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 35147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "cv.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1958,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "service.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5144,
+								5144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pubs.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1356,
+								1356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								614,
+								616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 522.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "assets/css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								727
 							]
 						],
 						"settings":
@@ -1093,10 +1214,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 348.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1153,7 +1274,7 @@
 	"project": "patrick-janssen.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 92.0
 	},
 	"save_all_on_build": true,
 	"select_file":
