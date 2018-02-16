@@ -6,27 +6,35 @@
 
 {% seo %}
 
-    <link rel="stylesheet" href="{{ './assets/css/style.css' }}">
+    <!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
     <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
   <body>
 
     <div class="wrapper">
 
       <header>
-
-        <h1 class="parent"><a href="http://design-automation.net">Design Automation Lab</a></h1>
-        <h1 class="title"><a href="index.html">Houdarcs</a></h1>
-
-        <p><i>
-          A library of nodes for SideFX Houdini for performing simulation and analysis of buildings and urban areas.
-        </i></p>
+        <a href="{{ site.github.url }}"> <h1 class="title">Patrick Janssen</h1> </a>
+        <p>
+          Associate Professor</br>
+          Department of Architecture</br>
+          National University of Singapore
+        </p>
 
         <div class="nav-wrapper">
-          <h1 class="nav"><a href="overview.html">Overview</a></h1>
-          <h1 class="nav"><a href="install.html">Getting Started</a></h1>
-          <h1 class="nav"><a href="examples.html">Examples</a></h1>
+
+          <h1 class="nav"><a href="research.html">Research</a></h1>
+          <h1 class="nav"><a href="teaching.html">Teaching</a></h1>
+          <h1 class="nav"><a href="service.html">Service</a></h1>
+          <h1 class="nav"><a href="software.html">Software Tools</a></h1>
+          <h1 class="nav"><a href="pubs.html">Publications</a></h1>
+          <h1 class="nav"><a href="cv.html">CV</a></h1>
           <h1 class="nav"><a href="links.html">Links</a></h1>
+
         </div>
 
       </header>
@@ -34,6 +42,7 @@
       <section>
         {{ content }}
       </section>
+
 
       <footer>
         <p><small>Hosted on GitHub Pages</small></p>

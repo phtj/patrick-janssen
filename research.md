@@ -27,5 +27,9 @@ title: Research
 
 ## PhDs Students
 
-- 2013 – ongoing: Main supervisor Choo Thian Siong, “An Interactive Multi-Objective Design Method Using Surrogate Models”, National University of Singapore.
-- 2011 – 2015: Co-supervisor   Chen Kian Wee, “Architectural Design Exploration of Low-Exergy (Low-Ex) Buildings in the Tropics”, ETH Zurich.
+- 2013 – ongoing: Choo Thian Siong, “An Interactive Multi-Objective Design Method Using Surrogate Models”, National University of Singapore (Main supervisor).
+- 2011 – 2015: Chen Kian Wee, “Architectural Design Exploration of Low-Exergy (Low-Ex) Buildings in the Tropics”, ETH Zurich (Co-supervisor).
+
+## MPhil Students
+
+- 2015: Firus Faizal,  "Use Of Scenario Planning Approach to Explore High-dense, Mixed-use Function Distribution: A Case of Financial Viability, Daylight Availability, and Solar Envelope Radiation", National University of Singapore (Main supervisor).
