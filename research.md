@@ -3,6 +3,18 @@ title: Research
 ---
 # Research
 
+See [Design Automation Lab](http://design-automation.net) for more details on the various software tools and research projects.
+
+## Software
+
+- 2018 – ongoing: Möbius Modeller – Parametric Information Modelling.
+- 2016 – ongoing: Studionet: An Online Community for Student-Centered Design Collaboration
+- 2014 – ongoing: Möbius 1 – A Parametric Modeller for The Web.
+- 2010 – ongoing: Houdarcs – Houdini Architecture Assets for Performance-Based Design
+- 2010 – ongoing: Eddex – Evolutionary Developmental Design Exploration Environment
+- 2009 – ongoing: Dexen – Distributed Execution Environment.
+- 2007 – 2008: EDDE – An Evolutionary Developmental Design Environment.
+
 ## Projects – Lead PI
 
 - 2018 – ongoing: Lead-PI, “Computational Thinking: Automated Formative Assessment of Parametric Modelling Assignments”, NUS (SGD $112K).
@@ -25,11 +37,3 @@ title: Research
 - 2009 – 2014: Collaborator, “Low Exergy Module”, Future Cities Laboratory (FCL), ETH Zurich, Lead PI: Prof Arno Schlueter.
 - 2009 – 2014: Collaborator, “High Density Threshold Studies”, Centre for Sustainable Cities, NUS (-), Lead PI: Prof Heng Chye Kiang.
 
-## PhDs Students
-
-- 2013 – ongoing: Choo Thian Siong, “An Interactive Multi-Objective Design Method Using Surrogate Models”, National University of Singapore (Main supervisor).
-- 2011 – 2015: Chen Kian Wee, “Architectural Design Exploration of Low-Exergy (Low-Ex) Buildings in the Tropics”, ETH Zurich (Co-supervisor).
-
-## MPhil Students
-
-- 2015: Firus Faizal,  "Use Of Scenario Planning Approach to Explore High-dense, Mixed-use Function Distribution: A Case of Financial Viability, Daylight Availability, and Solar Envelope Radiation", National University of Singapore (Main supervisor).

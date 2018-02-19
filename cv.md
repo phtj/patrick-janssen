@@ -3,8 +3,8 @@ title: CV
 ---
 # Curriculum Vitae
 
-Name: Patrick Hubert Theodoor JANSSEN
-Nationality: Dutch
+- Name: Patrick Hubert Theodoor JANSSEN
+- Nationality: Dutch
 
 ## Qualifications and Affiliations
 

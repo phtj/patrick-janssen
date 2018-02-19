@@ -10,10 +10,6 @@ title: Links
 
 ## Design Automation Lab
 - [Design Automation Lab Website](http://design-automation.net)
-- Möbius Modeller website coming soon...
-- [Try Möbius Modeller](https://phtj.github.io/mobius-modeller/)
-- [Mobius Mödeller Youtube Channel](https://www.youtube.com/channel/UCNJUnZ7erTrNWnZVjvgE59g)
-- StudioNet website coming soon...
 - [GitHub repository](https://github.com/phtj)
 
 ## Others
