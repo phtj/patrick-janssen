@@ -5,8 +5,10 @@ title: Publications
 
 ## Journal Papers and Book Chapters
 
+- Chen, K.W., Janssen, P., Schlueter, A., (2018) Multi-Objective Optimisation of Building Form, Envelope and Cooling System for Improved Building Energy Performance, Automation in Construction, (under review).
+- Chen, K.W., Choo, T.S., Janssen, P., (2016). Comparison of Ant Colony Optimisation and Evolutionary Algorithm: Multi-Objective Optimisation of Semi-Transparent Building Integrated Photovoltaic Facades. Journal of Building Performance Simulation (under review).
+
 - Stouffs, R and Janssen, P., (2017). Rethinking Urban Practices: Designing for Jurong Vision 2050, NUS Press.
-- Chen, K.W., Choo, T.S., Janssen, P., (2016). Comparison of Ant Colony Optimisation and Evolutionary Algorithm: Multi-Objective Optimisation of Semi-Transparent Building Integrated Photovoltaic Facades. Journal of Building Performance Simulation. (under review)
 - Janssen, P., (2015). "Dexen: A scalable and extensible platform for experimenting with population-based design exploration algorithms". AI EDAM 29, 443–455.
 - Choo, T.S., Janssen, P., (2014). "Evolutionary Optimisation of Semi-transparent Building Integrated Photovoltaic Facade". International Journal of Architectural Computing 12, 81–100.
 - Janssen, P., Stouffs, R., Chaszar, A., Boeykens, S., Toth, B., (2014). "Custom Digital Workflows with User-defined Data Transformations via Property Graphs", in: Design Computation Cognition (DCC’14), pp. 559–578.
@@ -22,6 +24,9 @@ title: Publications
 
 ## Conference Papers
 
+- Chen, KW, Janssen, P, Norford, L (2017) Automatic Generation of Semantic 3D City Models from Conceptual Massing Models, in: Proceedings of the 17th International Conference on Computer Aided Architectural Design Futures (CAAD Futures 2011), Istanbul, Turkey, July 12-14, 2017, pp. 84-100.
+- Chen, KW, Janssen, P, Norford, L (2017) Automatic Parameterisation of Semantic 3D City Models for Urban Design Optimisation, in: Proceedings of the 17th International Conference on Computer Aided Architectural Design Futures (CAAD Futures 2011), Istanbul, Turkey, July 12-14, 2017, pp. 51-65.
+- Janssen, P., (2017), Evolutionary Urbanism - Exploring Form-based Codes Using Neuroevolution Algorithms, in: Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017), Suzhou, China, 5-8 April 2017, pp. 303-312.
 - Janssen, P., Stouffs, R., Mohanty, A., Tan, E., Li, R., (2016). "Parametric Modelling with GIS", in: Proceedings of the 33rd eCAADe Conference, 22-26 August 2016, Oulu, Finland, pp. 59–68.
 - Janssen, P., Chen, K.W., Mohanty, A., (2016). "Automated Generation of BIM Models", in: Proceedings of the 33rd eCAADe Conference, 22-26 August 2016, Oulu, Finland, pp. 583–590.
 - Janssen, P., Li, R., Mohanty, A., (2016). "Möbius: A Parametric Modeller for the Web", in: Proceedings of the 21st International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2016), 30 March - 2 April 2016, Melbourne, Australia, pp. 157–166.
@@ -73,39 +78,3 @@ title: Publications
 - Janssen, P., Frazer, J., Tang, M.X., (2001). "Generative and Evolutionary Processes in Design", in: ACSA East Central Regional Conference, 5-7 October 2001, Waterloo, Canada, p. unpaginated.
 - Janssen, P., (2000). "Evolutionary Design Systems: A Conceptual Framework for the Creation of Generative Processes", in: Proceedings of the 5th International Conference on Design Decision Support Systems in Architecture and Urban Planning (DDSS 2005), 22-25 August 2000, Nijkerk, The Netherlands, pp. 190–200.
 - Janssen, P., Ceccato, C., (2000). "GORBI: Autonomous Intelligent Agents Using Distributed Object-Oriented Graphics", in: Proceedings of the 18th eCAADe Conference, 22-24 June 2000, Weimar, Germany, pp. 297–300.
-
-## Invited Lectures and Presentations
-
-- Janssen, P., (2016). Invited Lecture, "Towards Generative and Evaluative Feedback in Urban Planning", 3D Geoinformation Group, Faculty of Architecture, TU Delft, The Netherlands, 21 December, 2016.
-- Janssen, P., (2016). Invited Lecture, "Performance-Based Computational Design", Invited Lecture, Design Informatics, Faculty of Architecture, TU Delft, Netherlands, 7 December, 2016.
-- Janssen, P., (2016). Invited Lecture, " Parametric Modelling with GIS", GeoDesign Summit, Seminar 7 / 3D Cadastre & 3D Spatial Planning, Invited Lecture, Faculty of Architecture, TU Delft, Netherlands, 31st October, 2016.
-- Janssen, P., (2016). Invited Lecture, "Excursions in Performance-Based Computational Design ", Faculty of Architecture, RWTH Aachen University, Germany, 17 November, 2016.
-- Janssen, P., (2016). Invited Lecture, "Excursions in Performance-Based Computational Design", Aurecon, Melbourne, Australia, March 30, 2016.
-- Janssen, P., Stouffs, R., (2016). Invited Lecture, "Methods and Tools for Urban Planning", Future Cities Laboratory, Singapore, January 15, 2016.
-- Janssen, P., (2015a). Invited Lecture, "Mobius: A Parametric Modeller for the Web", Chair of Information Architecture, ETH Zurich, Switzerland, December 16, 2015.
-- Janssen, P., (2015b). Invited Lecture, "Excursions in Performance-Based Computational Design", Chair of Information Architecture, ETH Zurich, Switzerland, December 10, 2015.
-- Janssen, P., (2015c). Invited Lecture, "Parametric BIM", Workshop on Parametric Design for BIM, BCA Academy, Building Construction Authority, Singapore, November 4, 2015.
-- Janssen, P., (2015d). Invited Lecture, "Methods and Tools for Urban Design", Chair of Information Architecture, ETH Zurich, Switzerland, October 5, 2015.
-- Janssen, P., (2015e). Invited Lecture, "Thoughts on Design Decision Support Systems", Chair of Information Architecture, ETH Zurich, Switzerland, June 8, 2015.
-- Janssen, P., (2015f). Invited Lecture, "Parametric BIM", Workshop on Parametric Design for BIM, BCA Academy, Building Construction Authority, Singapore, March 25, 2015.
-- Stouffs, R., Janssen, P., (2015). Invited Lecture, "Data-Driven Urban Planning and Design", Winter School, International Forum on Urbanism, National University of Singapore, Singapore, January 19, 2015.
-- Janssen, P., (2014). Conference Workshop, "Parametric BIM", Workshop on Parametric Design Thinking: Cognitive Models and Styles, Computational Design Processes and Digital Tools, Design Computing and Cognition (DCC’14) Conference, London, UK, June 21, 2014.
-- Janssen, P., (2013a). Keynote,"Evo-Devo Design", Towards a New Architecture International Conference & the 30th Anniversary of New Architecture., School of Architecture & Urban Planning, Huazhong University of Science & Technology, Wuhan, China, November 20, 2013.
-- Janssen, P., (2013b). Conference Workshop "Hands-on with Custom Digital Workflows", , Workshop on Hands-on with Custom Digital Workflows, eCAADe Conference, TU Delft, The Netherlands, September 16, 2013.
-- Janssen, P., (2013c). Keynote, "Evo-Devo Design Explorations", Computational Design and Analysis: Proceedings of the 8th Conference on Digital Technologies in Architectural Education, School of Architecture, Tianjin University, Tianjin, China, August 24, 2013.
-- Janssen, P., (2013d). Invited Presentation, "Evo-Devo Design", Benoy Architects, July 5, 2013.
-- Janssen, P., (2013e). Invited Presentation, "Evolutionary Urbanism", Symposium on Parametric Architecture, National University of Singapore, March 13, 2013.
-- Janssen, P., (2012). Invited Lecture, "Evolutionary Urbanism", City Simulation Workshop, FCL Singapore, SEC Value Lab Asia, November 9, 2012.
-- Janssen, P., (2011a). Invited Lecture, "Iterative Virtual Prototyping", Research & Design Community, Singapore Institute of Architects, October 28, 2011.
-- Janssen, P., (2011b). Conference Workshop, "Iterative Virtual Prototyping", Workshop on Iterative Virtual Prototyping, CAAD Futures Conference, Liège, Belgium, July 5, 2011.
-- Janssen, P., (2011c). Conference Workshop, "Open Systems and Methods", Workshop on Open Systems and Methods for Collaborative Building Environment Modelling, CAAD Futures Conference, Liège, Belgium, July 4, 2011.
-- Janssen, P., (2011d). Invited Presentation, "Evolutionary Developmental Design Exploration", Symposium on Computation for Sustainable Architecture and Urbanism, Institute of Technology in Architecture, Faculty of Architecture, ETH Zurich, July 1, 2011.
-- Janssen, P., (2010). "Designing Sustainable Buildings Using Evolutionary Optimisation System", Research Presentation, Department of Architecture, National University of Singapore, October 24, 2010.
-- Janssen, P., (2009a). Invited Lecture, "Design Optimisation in Practice", Sushant School of Art and Architecture, Gurgaon, November 16, 2009.
-- Janssen, P., (2009b). Invited Lecture, "Generative Techniques in Design", Sushant School of Art and Architecture, Gurgaon, India, November 13, 2009.
-- Janssen, P., (2009c). Invited Presentation, "Evolutionary Optimisation using DEXEN", ARUP, Singapore, May 15, 2009.
-- Janssen, P., (2008a). Invited Lecture, "Generative Techniques in Design", Sushant School of Art and Architecture, Gurgaon, India, November 13, 2008.
-- Janssen, P., (2008b). Invited Presentation, "An Evolutionary Developmental Design Environment", ARUP, Melbourne, Australia, May 22, 2008.
-- Janssen, P., (2008c). Research Presentation, "Development of Platform to Support Evolutionary Developmental Design", Department of Architecture, University of Melbourne, April 23, 2008.
-- Janssen, P., (2007). Invited Lecture, "Evo-Devo Design", Workshop on Computational Intelligence for Design Applications, TU Delft, The Netherlands, November 20, 2007.
-

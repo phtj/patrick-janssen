@@ -103,6 +103,8 @@ The thesis is a 6 months design studio project, the final project of the Masters
 - 2017/2018 Lim Chze Yoon: ongoing
 - 2017/2018 Chavan Tejas Deepak: ongoing
 
+(Sabbatical at TU Delft)
+
 - 2015/2016 Fan, Jiang: Spiral Streets
 - 2015/2016 Zou, Menglin: Spiral Tower
 - 2015/2016 Khaliesah, Arina: Vertical Street
