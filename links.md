@@ -4,7 +4,7 @@ title: Links
 # Links
 
 ## National University of Singapore
-- [NUS](http://www.nus.edu.sg/)
+- [NUS School of Design and Environment](http://sde.nus.edu.sg/)
 - [NUS Department of Architecture](http://www.arch.nus.edu.sg/)
 - [NUS Staff Page](http://www.arch.nus.edu.sg/people/cv/pj.htm)
 
@@ -15,7 +15,7 @@ title: Links
 ## TU Delft
 - [TU Delft Faculty of Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment)
 - [TU Delft Department of Urbanism](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/)
-- [TU 3D Geoinformation](https://3d.bk.tudelft.nl/)
+- [TU Delft 3D Geoinformation](https://3d.bk.tudelft.nl/)
 
 ## Others
 - [Co-Principal Investigator of Big Data-Informed Urban Design and Governance, ETH Future Cities Laboratory](http://www.fcl.ethz.ch/people/CoreTeam/PatrickJanssen.html)
