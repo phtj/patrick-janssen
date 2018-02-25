@@ -12,6 +12,11 @@ title: Links
 - [Design Automation Lab Website](http://design-automation.net)
 - [GitHub repository](https://github.com/phtj)
 
+## TU Delft
+- [TU Delft Faculty of Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment)
+- [TU Delft Department of Urbanism](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/)
+- [TU 3D Geoinformation](https://3d.bk.tudelft.nl/)
+
 ## Others
 - [Co-Principal Investigator of Big Data-Informed Urban Design and Governance, ETH Future Cities Laboratory](http://www.fcl.ethz.ch/people/CoreTeam/PatrickJanssen.html)
 - [Member, BIM Centre of Excellence, NUS](http://www.sde.nus.edu.sg/bimcoe/)
