@@ -13,7 +13,7 @@ title: Publications
 - Choo, T.S., Janssen, P., (2014). "Evolutionary Optimisation of Semi-transparent Building Integrated Photovoltaic Facade". International Journal of Architectural Computing 12, 81–100.
 - Janssen, P., Stouffs, R., Chaszar, A., Boeykens, S., Toth, B., (2014). "Custom Digital Workflows with User-defined Data Transformations via Property Graphs", in: Design Computation Cognition (DCC’14), pp. 559–578.
 - Toth, B., Janssen, P., Stouffs, R., Chaszar, A., Boeykens, S., (2012). "Custom Digital Workflows: A New Framework for Design Analysis Integration". International Journal of Architectural Computing 10, 481–500.
-- Zhang, J., Heng, C.K., Malone-Lee, L.C., Hii, D.J.C., Janssen, P., Leung, K.S., Tan, B.K., (2012). "Evaluating environmental implications of density: A comparative case study on the relationship between density, urban block typology and sky exposure". Automation in Construction, Planning Future Cities-Selected papers from the 2010 eCAADe Conference 22, 90–101.
+- Zhang, J., Heng, C.K., Malone-Lee, L.C., Hii, D.J.C., Janssen, P., Leung, K.S., Tan, B.K., (2012). "Evaluating environmental implications of density: A comparative case study on the relationship between density, urban block typology and sky exposure". Automation in Construction 22, 90–101.
 - Bhatt, A., Janssen, P., Schoch, O., (2008). "Editorial". International Journal of Architectural Computing 6, 3–4.
 - Janssen, P., (2006a). "A Generative Evolutionary Design Method". Digital Creativity 17, 49–63.
 - Janssen, P., (2006b). "The role of preconception in design", in: Gero, J. (Ed.), Design Computing and Cognition ’06, Springer, Netherlands, pp. 365–383.
