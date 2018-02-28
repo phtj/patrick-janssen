@@ -4,13 +4,18 @@ title: Service
 # Service
 
 ## Editorial Roles
+
 - 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. Journal of Computational Design and Engineering (JCDE), to appear.
 - 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. International Journal of Architectural Computing (IJAC), to appear.
-- 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2018).
-- 2017: Chair of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2017).
 - 2017: Patrick Janssen, Paul Loh, Marc Schnabel and Aleksandra Raonic, eds. 2017. Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017).
 - 2013: Rudi Stouffs, Patrick Janssen, Stanislav Roudavski, and Bige Tuncer, eds. 2013. Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013).
 - 2008: Anand Bhatt, Patrick Janssen, and Odilo Schoch, eds. 2008. International Journal of Architectural Computing (IJAC), Volume 6, Number 4.
+
+## Paper Selection Committee
+
+- 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2018).
+- 2017: Chair of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2017).
+- 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2013).
 
 ## Seminars and Exhibitions
 
@@ -55,7 +60,7 @@ title: Service
 - 2014: Benjamin Coorey, A Generative Parametric Performance Design System for Spatial Configurations, PhD Thesis, University of Technology Sydney (UTS), March 2014.
 - 2013: Ruwan Amila Fernando, Representations for evolutionary design modelling, PhD Thesis, Queensland University of Technology (QUT), August 2013.
 
-## Service as Chair
+## Service as Conference Session Chair
 
 - 2016: Janssen, P. (2016). Session Chair at the 21st Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2016), Session 3A: Computational Design Analysis, 24th August 2016, Melbourne, Australia.
 - 2016: Janssen, P. (2016). Session Chair at the 34th Annual Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2016), Session C2: DESIGN TOOLS \| Evaluations, 31st March 2016, Oulu, Finland.
