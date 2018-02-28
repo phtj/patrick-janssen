@@ -4,12 +4,13 @@ title: Service
 # Service
 
 ## Editorial Roles
-
-- 2016: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2018).
-- 2016: Chair of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2017).
+- 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. Journal of Computational Design and Engineering (JCDE), to appear.
+- 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. International Journal of Architectural Computing (IJAC), to appear.
+- 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2018).
+- 2017: Chair of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2017).
 - 2017: Patrick Janssen, Paul Loh, Marc Schnabel and Aleksandra Raonic, eds. 2017. Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017).
 - 2013: Rudi Stouffs, Patrick Janssen, Stanislav Roudavski, and Bige Tuncer, eds. 2013. Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013).
-- 2008: Anand Bhatt, Patrick Janssen, and Odilo Schoch, eds. 2008. International Journal of Architectural Computing, Volume 6, Number 4.
+- 2008: Anand Bhatt, Patrick Janssen, and Odilo Schoch, eds. 2008. International Journal of Architectural Computing (IJAC), Volume 6, Number 4.
 
 ## Seminars and Exhibitions
 
