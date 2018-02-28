@@ -17,6 +17,7 @@ See [Design Automation Lab](http://design-automation.net) for more details on th
 
 ## Projects – Lead PI
 
+- 2018 – ongoing: Lead-PI, “Parametric Urban Modelling for JTC’s Jurong Vision, Phase 1”, NUS (SGD $135K), Co-PIs: Assoc Prof Rudi Stouffs, Assist. Prof. Zhang Ye, (submitted).
 - 2018 – ongoing: Lead-PI, “Computational Thinking: Automated Formative Assessment of Parametric Modelling Assignments”, NUS (SGD $112K).
 - 2017 – ongoing: Lead-PI, “Smart Design: Human Centric Planning of Urban Districts”, NUS (SGD $105K).
 - 2016 – ongoing: Lead-PI, “Studionet: An Online Community for Learning Digital Design Tools and Techniques”, NUS (SGD $101K).
@@ -29,6 +30,7 @@ See [Design Automation Lab](http://design-automation.net) for more details on th
 
 ## Projects – CoPI and Collaborator
 
+- 2018 – ongoing: Co-PI, “Spacematch”, NUS (SGD $150 K), Lead PI: Assist. Prof Clayton Miller, (submitted).
 - 2017 – ongoing: Co-PI, “Strict and automatic mapping of IFC-BIM models into semantically enriched 3D CityGML building models”, NUS (SGD $1,326 K), Lead PI: Assoc Prof Rudi Stouffs.
 - 2017 – ongoing: Co-PI, “Parametric Urban Modelling for JTC’s Jurong Vision, Phase 1”, NUS (SGD $97K), Lead PI: Assoc Prof Rudi Stouffs.
 - 2015 – ongoing: Co-PI, “Big Data-Informed Urban Design”, Future Cities Laboratory (FCL), ETH Zurich (SGD $45 million), Lead PI: Prof Gerhard Schmidt.
@@ -36,4 +38,3 @@ See [Design Automation Lab](http://design-automation.net) for more details on th
 - 2014 – 2015: Co-PI, “Data Sets and Tutorials to Support Contextual Modelling”, NUS (SGD $4k), Lead PI: Prof Rudi Stouffs.
 - 2009 – 2014: Collaborator, “Low Exergy Module”, Future Cities Laboratory (FCL), ETH Zurich, Lead PI: Prof Arno Schlueter.
 - 2009 – 2014: Collaborator, “High Density Threshold Studies”, Centre for Sustainable Cities, NUS (-), Lead PI: Prof Heng Chye Kiang.
-
