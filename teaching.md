@@ -3,7 +3,25 @@ title: Teaching
 ---
 # Teaching
 
-## Department of Architecture</br>National University of Singapore (June 2008 - ongoing)
+## Singapore
+
+Department of Architecture, National University of Singapore 
+
+June 2008 - ongoing
+
+### 2018/2019 Semester 2
+
+- AR3002: Studio (Year 3)
+- AR2524: BArch Spatial Computational Thinking (Year 2)
+- Workshop: Grasshopper Workshop (Year 2)
+
+### 2018/2019 Semester 1
+
+- AR5953a: MArch Elective - Urban Prototyping
+- AR3721: Environmental Systems (BIM)
+- AR4101/AR4103: Studio Design 7
+- Workshop: ArchiCAD Workshop (Year 3)
+- Workshop: Rhino Workshop (Year 2)
 
 ### 2017/2018 Semester 2
 
@@ -138,7 +156,11 @@ title: Teaching
 - AR5121: MArch Design Thesis Research Report
 - AR5559: MArch Elective - Generative Techniques in Design
 
-## Faculty of Architecture, Building and Planning</br>University of Melbourne (May 2006 - June 2008)
+## Melbourne
+
+Faculty of Architecture, Building and Planning, University of Melbourne 
+
+May 2006 - June 2008
 
 ### 2008 Semester 1
 - Design Studio - Algorithmic Architecture (MArch, Studio C, 2nd Year, 16 students)
@@ -158,10 +180,14 @@ title: Teaching
 ### 2006 Semester 2
 - Digital Design Modelling (BArch, 1st Year, 220 students)
 
-## Department of Architecture</br>Hong Kong University (2004 - 2005)
+## Hong Kong
+
+2004 - 2005
+
+### Department of Architecture, Hong Kong University 
 - CAAD Methods (M. Arch, 4th/5th year, 20 students)
 
-## School of Design</br>Hong Kong Polytechnic University (2000 - 2005)
+### School of Design, Hong Kong Polytechnic University 
 - Design Presentation (MSc Multimedia and Entertainment Technology)
 - Design Analysis Tools (BA Design)
 - Design Communication (BA Design)

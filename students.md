@@ -3,7 +3,7 @@ title: Students
 ---
 # Students
 
-## PhD and MPhil
+## PhD
 
 Choo, Thain Siong  (PhD)
 - Title: An Interactive Surrogate Model-based Performance-driven Design Method for Facade Design
@@ -11,16 +11,18 @@ Choo, Thain Siong  (PhD)
 - Main Supervisor: Patrick Janssen
 - Co-Supervisor: Rudi Stouffs
 
-Faizal, Muhd Firus (MPhil)
-- Title: Use of Scenario Planning Approach to Explore High-dense, Mixed-use Function Distribution
-- Period: January 2013 - March 2016
-- Main Supervisor: Patrick Janssen
-
 Chen, Kian Wee (PhD)
 - Title: A Design Method for the Exploration of Low Exergy Architecture in the Early Design Stages
 - Period: September 2011 – August 2015
 - Main Supervisor: Arno Schlueter (ETH)
 - Co-Supervisor: Patrick Janssen
+
+## MArch by Research
+
+Faizal, Muhd Firus
+- Title: Use of Scenario Planning Approach to Explore High-dense, Mixed-use Function Distribution
+- Period: January 2013 - March 2016
+- Main Supervisor: Patrick Janssen
 
 ## Masters Dissertations Students
 
@@ -98,10 +100,10 @@ The ISM is an independent study resulting in an 4000 word report.
 
 The thesis is a 6 months design studio project, the final project of the Masters of Architecture. 
 
-- 2017/2018 Tan Wei Chiang, Delwin: ongoing
-- 2017/2018 Chen Pengfeng: ongoing
-- 2017/2018 Lim Chze Yoon: ongoing
 - 2017/2018 Chavan Tejas Deepak: ongoing
+- 2017/2018 Tan Wei Chiang, Delwin: ongoing
+- 2017/2018 Lim Chze Yoon: ongoing
+- 2017/2018 Chen Pengfeng: ongoing
 
 (Sabbatical at TU Delft)
 

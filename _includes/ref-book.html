@@ -1,0 +1,36 @@
+<div class="ref-wrapper">
+
+    {% if include.smlfile %}
+        <div class="ref-thumb">
+            <a href="/assets/images/{{ include.file }}">
+                <img class="ref-img" src="/assets/images/{{ include.smlfile }}" />
+            </a>
+        </div>
+    {% elsif include.file %}
+        <div class="ref-thumb">
+            <a href="/assets/images/{{ include.file }}">
+                <img class="ref-img" src="/assets/images/{{ include.file }}" />
+            </a>
+        </div>
+    {% endif %}
+
+
+    <p class="ref">
+        {% assign authors = include.authors | split: "|" %}
+        {% for author in authors %}
+            {% if author != authors.last%}
+                {{ author }},
+            {% elsif include.file %}
+                {% if authors.size > 1 %}
+                    and {{ author }}
+                {% else %}
+                    {{ author }}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        ({{ include.year}})
+        <i>{{ include.title }}</i>,
+        {{ include.publisher }}.
+    </p>
+
+</div>

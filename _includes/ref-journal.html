@@ -1,0 +1,46 @@
+<div class="ref-wrapper">
+
+    {% if include.smlfile %}
+        <div class="ref-thumb">
+            <a href="/assets/images/{{ include.file }}">
+                <img class="ref-img" src="/assets/images/{{ include.smlfile }}" />
+            </a>
+        </div>
+    {% elsif include.file %}
+        <div class="ref-thumb">
+            <a href="/assets/images/{{ include.file }}">
+                <img class="ref-img" src="/assets/images/{{ include.file }}" />
+            </a>
+        </div>
+    {% endif %}
+
+    <p class="ref">
+        {% assign authors = include.authors | split: "|" %}
+        {% for author in authors %}
+            {% if author != authors.last%}
+                {{ author }},
+            {% elsif include.file %}
+                {% if authors.size > 1 %}
+                    and {{ author }}
+                {% else %}
+                    {{ author }}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+        ({{ include.year}})
+        <b>{{ include.title }}</b>,
+        <i>{{ include.journal }}</i>,
+        {{include.volume}}({{include.issue}}), pp. {{include.pages}}.
+        {% if include.cumincad_id %}
+            (On
+            <a href="http://papers.cumincad.org/cgi-bin/works/paper/{{ include.cumincad_id }}">Cumincad</a>,
+            <a href="http://papers.cumincad.org/data/works/att/{{ include.cumincad_id }}.pdf">PDF</a>.)
+        {% endif %}
+        {% if include.researchgate_id %}
+            (On
+            <a href="https://www.researchgate.net/publication/{{ include.researchgate_id }}">ResearchGate</a>.)
+        {% endif %}
+    </p>
+
+
+</div>

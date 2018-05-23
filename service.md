@@ -3,13 +3,22 @@ title: Service
 ---
 # Service
 
-## Editorial Roles
+## Guest Editor
 
 - 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. Journal of Computational Design and Engineering (JCDE), to appear.
 - 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. International Journal of Architectural Computing (IJAC), to appear.
 - 2017: Patrick Janssen, Paul Loh, Marc Schnabel and Aleksandra Raonic, eds. 2017. Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017).
 - 2013: Rudi Stouffs, Patrick Janssen, Stanislav Roudavski, and Bige Tuncer, eds. 2013. Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013).
 - 2008: Anand Bhatt, Patrick Janssen, and Odilo Schoch, eds. 2008. International Journal of Architectural Computing (IJAC), Volume 6, Number 4.
+
+## Editorial Board
+
+- 2018 - ongoing: [Editorial Board](https://uk.sagepub.com/en-gb/asi/international-journal-of-architectural-computing/journal202464#editorial-board) for the [International Journal of Architectural Computing (IJAC)](http://www.architecturalcomputing.org/).
+- 2017 - ongoing: [Review Editor](https://loop.frontiersin.org/people/236732/overview) for [Frontiers in Digital Architecture](https://www.frontiersin.org/journals/digital-humanities/sections/digital-architecture).
+
+## Conference Committee
+
+- 2014 - ongoing: [Treasurer](http://caadria.org/org/officers.html) of The Association of Computer Aided Architectural Design in Asia (CAADRIA).
 
 ## Paper Selection Committee
 
@@ -22,7 +31,7 @@ title: Service
 - 2015 – ongoing: Invited lectures at Building Construction Authority of Singapore (BCA) as part of a seminar series on Parametric BIM.
 - 2015: Curator of three exhibitions:
   - “Rethinking Our City for Singapore’s Next 50 Years” at The Urban Redevelopment Authority Centre, 23 July - 13 August, 2015.
-  - “Rethinking Urban Practices for Jurong Vision 2050” at the National Library Building (7th floor), 4-30 August, 2015.
+  - “Rethinking Urban Practices for Jurong Vision 2050” at the National Library Building, 4-30 August, 2015.
   - “Rethinking Urban Practices for Jurong Vision 2050” at The URA Centre, 31 August - 19 September, 2015.
 - 2015: Organisation Committee and Design Tutor, International Forum on Urbanism (IFoU) Winter School, National University of Singapore, 12-23 January 2013.
 - 2013: Boeykens, S., Janssen, P., Mueller, V., Manganelli, J., and Stouffs, R. “Hands-on with Custom Digital Workflows”, Conference Workshop, eCAADe Conference, 16th September 2013.
@@ -62,6 +71,7 @@ title: Service
 
 ## Service as Conference Session Chair
 
+- 2018: Janssen, P. (2018). Session Chair at the 23rd Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2018), Session 6C - Adaptive Materials and Kinetic Architecture, 19th May 2018, Beijing, China.
 - 2016: Janssen, P. (2016). Session Chair at the 21st Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2016), Session 3A: Computational Design Analysis, 24th August 2016, Melbourne, Australia.
 - 2016: Janssen, P. (2016). Session Chair at the 34th Annual Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2016), Session C2: DESIGN TOOLS \| Evaluations, 31st March 2016, Oulu, Finland.
 - 2015: Janssen, P., (2015). Session Chair at the 20th Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2015), Session 2A: Design Generation, 22nd May 2015, Daegu, South Korea.

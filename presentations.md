@@ -3,7 +3,11 @@ title: Presentations
 ---
 # Presentations
 
-## Keynotes
+## Invited Workshops
+
+- Janssen, P., Chen, K.W., Mohanty, A., Sun, H., Wang, L., Lim, J., Pung, D. (2018). Invited Workshop, "Extruded Cities", Tsinghua University, Beijing, China, 12-16 May, 2018.
+
+## Invited Keynotes
 
 - Janssen, P., (2017), Keynote, "Smart Design: Predicative Feedback for Urban Planning", 3rd Urban Planning and Property Development Conference (UPPD 2017), Singapore, 9 October 2017. 
 - Janssen, P., (2013). Keynote,"Evo-Devo Design", Towards a New Architecture International Conference & the 30th Anniversary of New Architecture., School of Architecture & Urban Planning, Huazhong University of Science & Technology, Wuhan, China, November 20, 2013.
@@ -11,11 +15,12 @@ title: Presentations
 
 ## Invited Lectures
 
+- Janssen, P., (2018). Invited Lecture, "The Future of Design Computation", Tsinghua University, Beijing, China, 14 May, 2018.
 - Janssen, P., (2017). Invited Lecture, "Generative Design and Automated Options", Building Construction Authority, 25 August, 2017.
 - Janssen, P., (2016). Invited Lecture, "Towards Generative and Evaluative Feedback in Urban Planning", 3D Geoinformation Group, Faculty of Architecture, TU Delft, The Netherlands, 21 December, 2016.
 - Janssen, P., (2016). Invited Lecture, "Excursions in Performance-Based Computational Design", Faculty of Architecture, RWTH Aachen University, Germany, 1 December, 2016.
 - Janssen, P., (2016). Invited Lecture, "Performance-Based Computational Design", Invited Lecture, Design Informatics, Faculty of Architecture, TU Delft, Netherlands, 7 December, 2016.
-- Janssen, P., (2016). Invited Lecture, " Parametric Modelling with GIS", GeoDesign Summit, Seminar 7 / 3D Cadastre & 3D Spatial Planning, Invited Lecture, Faculty of Architecture, TU Delft, Netherlands, 31st October, 2016.
+- Janssen, P., (2016). Invited Lecture, "Parametric Modelling with GIS", GeoDesign Summit, Seminar 7 / 3D Cadastre & 3D Spatial Planning, Invited Lecture, Faculty of Architecture, TU Delft, Netherlands, 31st October, 2016.
 - Janssen, P., (2016). Invited Lecture, "Excursions in Performance-Based Computational Design", Aurecon, Melbourne, Australia, March 30, 2016.
 - Janssen, P., Stouffs, R., (2016). Invited Lecture, "Methods and Tools for Urban Planning", Future Cities Laboratory, Singapore, January 15, 2016.
 - Janssen, P., (2015). Invited Lecture, "Mobius: A Parametric Modeller for the Web", Chair of Information Architecture, ETH Zurich, Switzerland, December 16, 2015.
