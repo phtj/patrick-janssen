@@ -661,7 +661,7 @@ title: Conference Papers
     date="11-13 December"
     place="Milan, Italy"
     pages="3.1–3.16"
-    title="Evolution Aided Architectural Design: A Proposal for a Method of Designing Sustainable Buildings"
+    title="Generative and Evolutionary Techniques for Building Envelope Design"
     proceedings="Proceedings of GA 2002"
     researchgate_id="262932081"
 %}
