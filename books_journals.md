@@ -1,7 +1,9 @@
 ---
-title: Books, Journals, Editorials
+title: Books and Journals
 ---
-# Books
+# Books and Journals
+
+## Books
 
 {% include ref-book.html
     smlfile="jurong_vision_book.jpg" file="jurong_vision_book_sml.jpg"
@@ -11,10 +13,18 @@ title: Books, Journals, Editorials
     publisher="NUS Press"
 %}
 
-# Journal Papers and Book Chapters
+## Journal Guest Editor
+
+- 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. Journal of Computational Design and Engineering (JCDE), to appear.
+- 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. International Journal of Architectural Computing (IJAC), to appear.
+- 2017: Patrick Janssen, Paul Loh, Marc Schnabel and Aleksandra Raonic, eds. 2017. Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017).
+- 2013: Rudi Stouffs, Patrick Janssen, Stanislav Roudavski, and Bige Tuncer, eds. 2013. Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013).
+- 2008: Anand Bhatt, Patrick Janssen, and Odilo Schoch, eds. 2008. International Journal of Architectural Computing (IJAC), Volume 6, Number 4.
+
+## Journal Papers and Book Chapters
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors ="Chen, KW|Janssen, P|Schlueter, A"
     year="2018"
     volume=""
@@ -25,7 +35,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors ="Chen, KW|Janssen, P|Schlueter, A"
     year="2018"
     volume=""
@@ -36,10 +46,10 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Wang, L|Janssen, P|Ji, G"
     year="2018"
-    volume=""
+    volume="8"
     issue=""
     pages="(accepted)"
     title="Utility of Evolutionary Design in Architecture: An Investigation into Constraint Handling Strategies"
@@ -47,7 +57,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Janssen, P"
     year="2015"
     volume="29"
@@ -58,7 +68,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Choo, TS|Janssen, P"
     year="2014"
     volume="12"
@@ -69,10 +79,10 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Janssen, P|Stouffs, R|Chaszar, A|Boeykens, S|Toth, B"
     year="2014"
-    volume="12"
+    volume="6"
     issue=""
     pages="559–578"
     title="Custom Digital Workflows with User-defined Data Transformations via Property Graphs"
@@ -80,7 +90,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Toth, B|Janssen, P|Stouffs, R|Chaszar, A|Boeykens, S"
     year="2014"
     volume="10"
@@ -91,7 +101,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Zhang, J|Heng, CK|Malone-Lee, LC|Hii, DJC|Janssen, P|Leung, KS|Tan, BK"
     year="2012"
     volume="22"
@@ -102,7 +112,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Janssen, P"
     year="2006"
     volume="17"
@@ -113,10 +123,10 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Janssen, P"
     year="2006"
-    volume="17"
+    volume="2"
     issue=""
     pages="365–383"
     title="The Role of Preconceptions in Design"
@@ -124,7 +134,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Janssen, P|Frazer, J"
     year="2005"
     volume="3"
@@ -135,7 +145,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Frazer, J|Janssen, P"
     year="2003"
     volume="36"
@@ -146,7 +156,7 @@ title: Books, Journals, Editorials
 %}
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Janssen, P|Frazer, J|Tang, MX"
     year="2002"
     volume="16"
@@ -159,11 +169,11 @@ title: Books, Journals, Editorials
 ## Editorials
 
 {% include ref-journal.html
-    smlfile="ref_in_progress.png" file="ref_in_progress.png"
+
     authors = "Bhatt, A|Janssen, P|Schoch, O"
     year="2008"
     volume="6"
-    issue=""
+    issue="4"
     pages="3–4"
     title="Editorial"
     journal="International Journal of Architectural Computing"

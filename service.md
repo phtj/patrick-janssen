@@ -3,14 +3,6 @@ title: Service
 ---
 # Service
 
-## Guest Editor
-
-- 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. Journal of Computational Design and Engineering (JCDE), to appear.
-- 2018: Patrick Janssen, and Christiane Herr, and Rudi Stouffs, eds. 2008. International Journal of Architectural Computing (IJAC), to appear.
-- 2017: Patrick Janssen, Paul Loh, Marc Schnabel and Aleksandra Raonic, eds. 2017. Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017).
-- 2013: Rudi Stouffs, Patrick Janssen, Stanislav Roudavski, and Bige Tuncer, eds. 2013. Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013).
-- 2008: Anand Bhatt, Patrick Janssen, and Odilo Schoch, eds. 2008. International Journal of Architectural Computing (IJAC), Volume 6, Number 4.
-
 ## Editorial Board
 
 - 2018 - ongoing: [Editorial Board](https://uk.sagepub.com/en-gb/asi/international-journal-of-architectural-computing/journal202464#editorial-board) for the [International Journal of Architectural Computing (IJAC)](http://www.architecturalcomputing.org/).

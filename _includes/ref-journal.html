@@ -1,15 +1,15 @@
 <div class="ref-wrapper">
 
-    {% if include.smlfile %}
+    {% if include.researchgate_id %}
         <div class="ref-thumb">
-            <a href="/assets/images/{{ include.file }}">
-                <img class="ref-img" src="/assets/images/{{ include.smlfile }}" />
+            <a href="/assets/pdf/{{ include.researchgate_id }}.png" target="view">
+                <img class="ref-img" src="/assets/pdf/{{ include.researchgate_id }}_sml.png" />
             </a>
         </div>
-    {% elsif include.file %}
+    {% else %}
         <div class="ref-thumb">
-            <a href="/assets/images/{{ include.file }}">
-                <img class="ref-img" src="/assets/images/{{ include.file }}" />
+            <a href="/assets/pdf/ref_in_progress.png" target="view">
+                <img class="ref-img" src="/assets/pdf/ref_in_progress.png" />
             </a>
         </div>
     {% endif %}
@@ -32,15 +32,12 @@
         <i>{{ include.journal }}</i>,
         {{include.volume}}({{include.issue}}), pp. {{include.pages}}.
         {% if include.cumincad_id %}
-            (On
-            <a href="http://papers.cumincad.org/cgi-bin/works/paper/{{ include.cumincad_id }}">Cumincad</a>,
-            <a href="http://papers.cumincad.org/data/works/att/{{ include.cumincad_id }}.pdf">PDF</a>.)
+            <a href="http://papers.cumincad.org/cgi-bin/works/paper/{{ include.cumincad_id }}"  target="view">Cumincad</a>,
         {% endif %}
         {% if include.researchgate_id %}
-            (On
-            <a href="https://www.researchgate.net/publication/{{ include.researchgate_id }}">ResearchGate</a>.)
+            <a href="https://www.researchgate.net/publication/{{ include.researchgate_id }}"  target="view">Research Gate</a>,
+            <a href="/assets/pdf/{{ include.researchgate_id  }}.pdf" target="view">PDF</a>.
         {% endif %}
     </p>
-
 
 </div>
