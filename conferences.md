@@ -663,7 +663,7 @@ title: Conference Papers
     pages="3.1–3.16"
     title="Generative and Evolutionary Techniques for Building Envelope Design"
     proceedings="Proceedings of GA 2002"
-    researchgate_id="262932081"
+    researchgate_id="27470583"
 %}
 
 {% include ref-conf.html
