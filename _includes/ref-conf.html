@@ -2,13 +2,13 @@
 
     {% if include.researchgate_id %}
         <div class="ref-thumb">
-            <a href="/assets/pdf/{{ include.researchgate_id }}.png">
+            <a href="/assets/pdf/{{ include.researchgate_id }}.png" target="view">
                 <img class="ref-img" src="/assets/pdf/{{ include.researchgate_id }}_sml.png" />
             </a>
         </div>
     {% else %}
         <div class="ref-thumb">
-            <a href="/assets/pdf/ref_in_progress.png">
+            <a href="/assets/pdf/ref_in_progress.png" target="view">
                 <img class="ref-img" src="/assets/pdf/ref_in_progress.png" />
             </a>
         </div>
@@ -35,13 +35,11 @@
         {{ include.place }},
         pp. {{include.pages}}.
         {% if include.cumincad_id %}
-            (On
-            <a href="http://papers.cumincad.org/cgi-bin/works/paper/{{ include.cumincad_id }}">Cumincad</a>,
-            <a href="http://papers.cumincad.org/data/works/att/{{ include.cumincad_id }}.pdf">PDF</a>.)
+            <a href="http://papers.cumincad.org/cgi-bin/works/paper/{{ include.cumincad_id }}"  target="view">Cumincad</a>,
         {% endif %}
         {% if include.researchgate_id %}
-            (On
-            <a href="https://www.researchgate.net/publication/{{ include.researchgate_id }}">Research Gate</a>.)
+            <a href="https://www.researchgate.net/publication/{{ include.researchgate_id }}"  target="view">Research Gate</a>,
+            <a href="/assets/pdf/{{ include.researchgate_id }}.pdf" target="view">PDF</a>.
         {% endif %}
     </p>
 
