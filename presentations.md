@@ -3,9 +3,13 @@ title: Presentations
 ---
 # Presentations
 
-## Invited Workshops
+## Seminars and Workshops
 
-- Janssen, P., Chen, K.W., Mohanty, A., Sun, H., Wang, L., Lim, J., Pung, D. (2018). Invited Workshop, "Extruded Cities", Tsinghua University, Beijing, China, 12-16 May, 2018.
+- 2018: Janssen, P, Chen, KW, Mohanty, A, Sun, H, Wang, L, Lim, J and Pung, D, Invited Workshop, "Extruded Cities", Tsinghua University, Beijing, China, 12-16 May, 2018.
+- 2013: Boeykens, S, Janssen, P, Mueller, V, Manganelli, J and Stouffs, R, Invited Workshop, "Hands-on with Custom Digital Workflows", eCAADe Conference, 16th September 2013.
+- 2013: Janssen, P, One-day industry seminar on "Parametric Architecture", attended by 40 professionals from practice, 13th March, 2013.
+- 2011: Stylianos, D and Janssen, P, One-day industry seminar on "Research & Design", attended by 60 people, 28th October 2011.
+- 2011: Janssen, P and Chen, KW, Invited Workshop, "Iterative Virtual prototyping", CAAD Futures Conference, 5th July 2011.
 
 ## Invited Keynotes
 
@@ -48,3 +52,9 @@ title: Presentations
 - Janssen, P., (2008). Research Presentation, "Development of Platform to Support Evolutionary Developmental Design", Department of Architecture, University of Melbourne, April 23, 2008.
 - Janssen, P., (2007). Invited Lecture, "Evo-Devo Design", Workshop on Computational Intelligence for Design Applications, TU Delft, The Netherlands, November 20, 2007.
 
+## Exhibitions
+
+- 2015: Curator of three exhibitions:
+  - “Rethinking Our City for Singapore’s Next 50 Years” at The Urban Redevelopment Authority Centre, 23 July - 13 August, 2015.
+  - “Rethinking Urban Practices for Jurong Vision 2050” at the National Library Building, 4-30 August, 2015.
+  - “Rethinking Urban Practices for Jurong Vision 2050” at The URA Centre, 31 August - 19 September, 2015.

@@ -488,7 +488,7 @@ title: Conference Papers
     title="Custom Digital Workflows: A New Framework for Design Analysis Integration"
     proceedings="Proceedings of CAADRIA 2012"
     cumincad_id="caadria2012_040"
-    researchgate_id="259874080"
+    researchgate_id="257651553"
 %}
 
 {% include ref-conf.html

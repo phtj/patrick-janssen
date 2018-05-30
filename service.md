@@ -10,26 +10,13 @@ title: Service
 
 ## Conference Committee
 
-- 2014 - ongoing: [Treasurer](http://caadria.org/org/officers.html) of The Association of Computer Aided Architectural Design in Asia (CAADRIA).
+- 2014 - 2018: [Treasurer](http://caadria.org/org/officers.html) of The Association of Computer Aided Architectural Design in Asia (CAADRIA).
 
 ## Paper Selection Committee
 
 - 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2018).
 - 2017: Chair of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2017).
 - 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2013).
-
-## Seminars and Exhibitions
-
-- 2015 – ongoing: Invited lectures at Building Construction Authority of Singapore (BCA) as part of a seminar series on Parametric BIM.
-- 2015: Curator of three exhibitions:
-  - “Rethinking Our City for Singapore’s Next 50 Years” at The Urban Redevelopment Authority Centre, 23 July - 13 August, 2015.
-  - “Rethinking Urban Practices for Jurong Vision 2050” at the National Library Building, 4-30 August, 2015.
-  - “Rethinking Urban Practices for Jurong Vision 2050” at The URA Centre, 31 August - 19 September, 2015.
-- 2015: Organisation Committee and Design Tutor, International Forum on Urbanism (IFoU) Winter School, National University of Singapore, 12-23 January 2013.
-- 2013: Boeykens, S., Janssen, P., Mueller, V., Manganelli, J., and Stouffs, R. “Hands-on with Custom Digital Workflows”, Conference Workshop, eCAADe Conference, 16th September 2013.
-- 2013: Lead organiser of a one-day industry seminar on “Parametric Architecture”, attended by 40 professionals from practice, 13th March, 2013.
-- 2011: Organiser of a one-day industry seminar on “Research & Design”, attended by 60 people, 28th October 2011.
-- 2011: Janssen, P. and Chen, K.W., “Iterative Virtual prototyping”, Conference Workshop, CAAD Futures Conference, 5th July 2011.
 
 ## Juries
 
@@ -73,3 +60,8 @@ title: Service
 - 2013: Janssen, P. (2013). Session Chair at the 32nd Annual Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2013), Session 3B: Algorithmic Design Generation, 18th September 2013, Delft, The Netherlands.
 - 2013: Janssen, P. (2013). Session Chair at the 18th Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2013), Keynote: Architectural Engineering / Engineering Architecture at Gardens by the Bay, 16th May 2013, Singapore.
 - 2008: Janssen, P. (2008). Session Chair at the Great Asian Streets Symposium 5 (GASS5), Session 02: Sustainability, 5th December 2008, Singapore.
+
+## Others
+
+- 2015 – ongoing: Invited lectures at Building Construction Authority of Singapore (BCA) as part of a seminar series on Parametric BIM.
+- 2015: Organisation Committee and Design Tutor, International Forum on Urbanism (IFoU) Winter School, National University of Singapore, 12-23 January 2013.
