@@ -4,7 +4,7 @@ title: Home
 
 ![Photo](./assets/images/1-IMG_4903.JPG)
 
-Patrick Janssen is an Associate Professor at the Department of Architecture at the National University of Singapore and is the Director of the Design Automation Laboratory. He is also Adjunct Associate Professor in "Automation in Urban Planning and Design" at GeoInformation group at the Department of Urbanism, Faculty of Architecture and the Built Environment, TU Delft. 
+Patrick Janssen is an Associate Professor at the Department of Architecture at the National University of Singapore and is the Director of the Design Automation Laboratory. He is also Adjunct Associate Professor in Automation in Urban Planning and Design at the 3D GeoInformation research group at the Department of Urbanism, Faculty of Architecture and the Built Environment, TU Delft. 
 
 He received his PhD from Hong Kong Polytechnic University, his MSc in Cognitive Science and Intelligent Computing from Westminster University, and his AA Diploma from the Architectural Association.
 
