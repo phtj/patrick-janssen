@@ -4,7 +4,7 @@ title: Conference Papers
 # Conference Papers
 
 {% include ref-conf.html
-
+    smlfile="tsinghua_workshop_sml.png" file="tsinghua_workshop.png"
     authors="Janssen, P|Chen, KW| Mohanty, A|Sun, H|Lim, J|Pung, D"
     year="2018"
     date="July 26-27"
