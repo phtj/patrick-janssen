@@ -3,6 +3,16 @@ title: Conference Papers
 ---
 # Conference Papers
 
+{% include ref-conf.html
+
+    authors="Janssen, P|Chen, KW| Mohanty, A|Sun, H|Lim, J|Pung, D"
+    year="2018"
+    date="July 26-27"
+    place="Cambridge, UK"
+    pages="(accepted)"
+    title="Extruded City: Geospatial Coding With Möbius Modeller"
+    proceedings="Applied Urban Modelling 2018"
+%}
 
 {% include ref-conf.html
 
