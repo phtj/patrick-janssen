@@ -17,7 +17,7 @@ See [Design Automation Lab](http://design-automation.net) for more details on th
 
 ## Projects – Lead PI
 - 2018 – submitted: Lead-PI, "Visual Coding Strategies for Teaching Computational Thinking in Design Education", NUS (SGD $250K), Co-PIs: Assoc. Prof. Khoo Siau Cheng (Computer Science).
-- 2018 – ongoing: Lead-PI, "Parametric Urban Modelling for JTC’s Jurong Vision, Phase 2", NUS (SGD $135K), Co-PIs: Assoc. Prof. Rudi Stouffs, Assist. Prof. Zhang Ye.
+- 2018 – ongoing: Lead-PI, "Parametric Urban Modelling for JTC’s Jurong Vision, Phase 2", NUS (SGD $135K), Co-PIs: Assoc. Prof. Rudi Stouffs, Assist. Prof. Zhang Ye.[More information.](http://design-automation.net/projects/jurong_vision_phase2.html)
 - 2018 – ongoing: Lead-PI, "Computational Thinking: Automated Formative Assessment of Parametric Modelling Assignments", NUS (SGD $112K). [More information.](http://design-automation.net/projects/comp_think.html)
 - 2017 – ongoing: Lead-PI, "Smart Design: Human Centric Planning of Urban Districts", NUS (SGD $105K). [More information.](http://design-automation.net/projects/smart_design.html)
 - 2016 – ongoing: Lead-PI, "Studionet: An Online Community for Learning Digital Design Tools and Techniques", NUS (SGD $101K). [More information.](http://design-automation.net/projects/studionet.html)
