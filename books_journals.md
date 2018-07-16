@@ -103,7 +103,7 @@ title: Books and Journals
     smlfile="kw_autocon_sml.png" file="kw_autocon.png"
     authors ="Chen, KW|Janssen, P|Schlueter, A"
     year="2018"
-    pages="(submitted)"
+    pages="(accepted)"
     title="Multi-Objective Optimisation of Building Form, Envelope and Cooling System for Improved Building Energy Performance"
     journal="Automation in Construction"
 %}
