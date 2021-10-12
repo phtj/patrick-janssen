@@ -24,15 +24,16 @@ title: Books and Journals
 
 ## Editor
 
-{% include ref-editor.html
+<!-- {% include ref-editor.html
     smlfile="jcde_sml.png" file="jcde.png"
     authors ="Janssen, P|Herr, C|Stouffs, R"
-    year="2018"
+    year="2019"
     title="Special Issue: CAADRIA 2017"
     series="Journal of Computational Design and Engineering (JCDE)"
-    volume="(To appear)"
+    volume="6"
+    issue="3"
     link="https://www.journals.elsevier.com/journal-of-computational-design-and-engineering/"
-%}
+%} -->
 
 {% include ref-editor.html
     smlfile="ijac_sml.png" file="ijac.png"
@@ -40,7 +41,10 @@ title: Books and Journals
     year="2018"
     title="Special Issue: Protocols, Flows, and Glitches"
     series="International Journal of Architectural Computing (IJAC)"
-    volume="(To appear)"
+    volume="16"
+    issue="3"
+    researchgate_id="327648205"
+    doi="10.1177/1478077118798934"
     link="http://journals.sagepub.com/loi/jaca"
 %}
 
@@ -99,6 +103,106 @@ title: Books and Journals
     journal="Journal of Building Performance Simulation"
 %}
 -->
+
+
+
+
+{% include ref-journal.html
+    authors ="Janssen, P|Tung, BDP|Wang, L"
+    year="2022"
+    pages="(to appear)"
+    title="Mobius Evolver: Competitive Exploration of Urban Massing Strategies Using Cloud Computing"
+    journal="Artificial Intelligence in Urban Planning and Design: Technologies, Implementation, and Impacts"
+%}
+
+{% include ref-journal.html
+    authors ="Biljecki, F|Lim, J|Crawford, J|Moraru, D|Tauscher, H|Konde, A|Adouane, K|Lawrence, S|Janssen, P|Stouffs, R"
+    year="2021"
+    pages="103440"
+    volume="121"
+    title="Extending CityGML for IFC-sourced 3D city models"
+    journal="Automation in Construction"
+    doi="10.1016/j.autcon.2020.103440"
+    researchgate_id="345918816"
+    link="https://www.sciencedirect.com/science/article/abs/pii/S0926580520310207"
+%}
+
+{% include ref-journal.html
+    authors ="Sood, T|Janssen, P|Miller, C"
+    year="2020"
+    pages="113"
+    volume="6"
+    title="Spacematch: Using Environmental Preferences to Match Occupants to Suitable Activity-Based Workspaces"
+    journal="Frontiers in Built Environment 6"
+    doi="10.3389/fbuil.2020.00113"
+    researchgate_id="343311665"
+    link="https://www.frontiersin.org/articles/10.3389/fbuil.2020.00113/full"
+%}
+
+{% include ref-journal.html
+    authors ="Wang, LK|Janssen, P|Ji, G"
+    year="2020"
+    pages="458-476"
+    volume="34"
+    issue="4"
+    title="SSIEA: A hybrid evolutionary algorithm for supporting conceptual architectural design"
+    journal="Artificial Intelligence for Engineering Design, Analysis and Manufacturing"
+    doi="10.1017/S0890060420000281"
+    researchgate_id="342959692"
+    link="https://www.cambridge.org/core/journals/ai-edam/article/abs/ssiea-a-hybrid-evolutionary-algorithm-for-supporting-conceptual-architectural-design/F62E663EECA36C82100A8012A6D258AE#"
+%}
+
+{% include ref-journal.html
+    authors ="Lim, J|Janssen, P|Biljecki, F"
+    year="2020"
+    pages="83-90"
+    volume="XLIV-4/W1-2020"
+    title="Visualising detailed CityGML and ADE at the building scale"
+    journal="Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci."
+    doi="110.5194/isprs-archives-xliv-4-w1-2020-83-2020"
+    researchgate_id="344235561"
+    link="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-4-W1-2020/83/2020/"
+%}
+
+{% include ref-journal.html
+    authors ="Alva, P|Janssen, P|Stouffs, R"
+    year="2019"
+    pages="336-356"
+    volume="17"
+    issue="4"
+    title="Geospatial tool-chains: Planning support systems for organisational teams"
+    journal="International Journal of Architectural Computing"
+    doi="10.1177/1478077119891569"
+    researchgate_id="337807173"
+    link="https://journals.sagepub.com/doi/10.1177/1478077119891569"
+%}
+
+{% include ref-journal.html
+    authors ="Wang, L|Janssen, P|Chen, KW|Tong, Z|Ji, G"
+    year="2019"
+    pages="6965"
+    volume="11"
+    issue="24"
+    title="Subtractive Building Massing for Performance-Based Architectural Design Exploration: A Case Study of Daylighting Optimization"
+    journal="Sustainability"
+    doi="10.3390/su11246965"
+    researchgate_id="337784287"
+    link="https://www.mdpi.com/2071-1050/11/24/6965"
+%}
+
+{% include ref-journal.html
+    authors ="Adouane, K|Stouffs, R|Janssen, P|Domer, B"
+    year="2019"
+    pages="1-24"
+    volume="69"
+    issue="2"
+    title="A model-based approach to convert a building BIM-IFC data set model into CityGML"
+    journal="Spatial Science"
+    doi="10.1080/14498596.2019.1658650"
+    researchgate_id="336348057"
+    link="https://www.tandfonline.com/doi/abs/10.1080/14498596.2019.1658650?journalCode=tjss20"
+%}
+
 {% include ref-journal.html
     smlfile="kw_autocon_sml.png" file="kw_autocon.png"
     authors ="Chen, KW|Janssen, P|Schlueter, A"
@@ -106,6 +210,8 @@ title: Books and Journals
     pages="449-457"
     title="Multi-Objective Optimisation of Building Form, Envelope and Cooling System for Improved Building Energy Performance"
     journal="Automation in Construction"
+    researchgate_id="327110108"
+    link="https://www.sciencedirect.com/science/article/abs/pii/S0926580516302801"
 %}
 
 {% include ref-journal.html
@@ -116,7 +222,8 @@ title: Books and Journals
     pages="177-194"
     title="Utility of Evolutionary Design in Architecture: An Investigation into Constraint Handling Strategies"
     journal="Design Computing and Cognition (DCC’18)"
-
+    researchgate_id="330232748"
+    link="https://link.springer.com/chapter/10.1007%2F978-3-030-05363-5_10"
 %}
 
 {% include ref-journal.html

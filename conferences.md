@@ -4,23 +4,139 @@ title: Conference Papers
 # Conference Papers
 
 {% include ref-conf.html
+    authors="Yenardi, AC|Janssen, P"
+    year="2021"
+    date="May 17-19"
+    place="Hong Kong"
+    pages="31-40"
+    title="Mass Participatory Design on the Web: A Voxel-Based 3D Modelling Approach"
+    proceedings="Proceedings of CAADRIA 2021"
+    cumincad_id="caadria2021_116"
+    researchgate_id="355183712"
+%}
+
+{% include ref-conf.html
+    authors="Pung, D|Janssen, P"
+    year="2021"
+    date="May 17-19"
+    place="Hong Kong"
+    pages="659-668"
+    title="P2P Urbanism: Collaborative Generation of Spatial Plans through Paper Cutting"
+    proceedings="Proceedings of CAADRIA 2021"
+    cumincad_id="caadria2021_097"
+    researchgate_id="355183885"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Chen, KW|Janssen, P|Ji, G"
+    year="2020"
+    date="August 5-6"
+    place="Bangkok, Thailand"
+    pages="385-394"
+    title="Algorithmic Generation of Architectural Massing Models for Building Design Optimisation - Parametric Modelling Using Subtractive and Additive Form Generation Principles"
+    proceedings="Proceedings of CAADRIA 2020"
+    cumincad_id="caadria2020_009"
+    researchgate_id="343345636"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Janssen, P|Chen, KW|Ji, G"
+    year="2020"
+    date="August 5-6"
+    place="Bangkok, Thailand"
+    pages="255-264"
+    title="Enabling Optimisation-based Exploration for Building Massing Design - A Coding-free Evolutionary Building Massing Design Toolkit in Rhino-Grasshopper"
+    proceedings="Proceedings of CAADRIA 2020"
+    cumincad_id="caadria2020_008"
+    researchgate_id="343345541"
+%}
+
+{% include ref-conf.html
+    authors="Alva, P|Lee, HJ|Lin, Z|Mehta, P|Chen, J|Janssen, P"
+    year="2020"
+    date="August 5-6"
+    place="Bangkok, Thailand"
+    pages="793-802"
+    title="Geo-computation for District Planning - An Agile Automated Modelling Approach"
+    proceedings="Proceedings of CAADRIA 2020"
+    cumincad_id="caadria2020_046"
+    researchgate_id="343470688"
+%}
+
+{% include ref-conf.html
+    authors="Alva, P|Janssen, P|Stouffs, R"
+    year="2019"
+    date="April 15-18"
+    place="Wellington, New Zealand"
+    pages="11-20"
+    title="A spatial decision support framework for planning: Creating tool-chains for organisational teams"
+    proceedings="Proceedings of CAADRIA 2019"
+    cumincad_id="caadria2019_005"
+    researchgate_id="332631479"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Janssen, P|Ji, G"
+    year="2019"
+    date="April 15-18"
+    place="Wellington, New Zealand"
+    pages="383-392"
+    title="Progressive Modelling for Parametric Design Optimization - An Example of How Parametric Design Optimization Can Support Reflection"
+    proceedings="Proceedings of CAADRIA 2019"
+    cumincad_id="caadria2019_008"
+    researchgate_id="332543148"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Janssen, P|Ji, G"
+    year="2019"
+    date="April 15-18"
+    place="Wellington, New Zealand"
+    pages="593-602"
+    title="Diversity and Efficiency - A Hybrid Evolutionary Algorithm Combining an Island Model with a Steady-state Replacement Strategy"
+    proceedings="Proceedings of CAADRIA 2019"
+    cumincad_id="caadria2019_007"
+    researchgate_id="332543054"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Janssen, P|Ji, G"
+    year="2019"
+    date="April 15-18"
+    place="Charlotte, USA"
+    title="Reshaping Design Search Spaces for Efficient Computational Design Optimization in Architecture"
+    proceedings="The 10th International Conference on Computational Creativity"
+    researchgate_id="333868196"
+%}
+
+{% include ref-conf.html
+    authors="Zhang, Y|Azzali, S|Janssen, P|Stouffs, R"
+    year="2018"
+    date="December 10-12"
+    place="Barcelona, Spain"
+    title="Design for walkable neighbourhoods in Singapore using Form-based Codes"
+    proceedings="Proceedings of IFoU 2018"
+    researchgate_id="329910161"
+    doi="10.3390/IFOU2018-05934"
+    link="https://sciforum.net/manuscripts/5934/manuscript.pdf"
+%}
+
+{% include ref-conf.html
     smlfile="tsinghua_workshop_sml.png" file="tsinghua_workshop.png"
     authors="Janssen, P|Chen, KW| Mohanty, A|Sun, H|Lim, J|Pung, D"
     year="2018"
     date="July 26-27"
     place="Cambridge, UK"
-    pages="(accepted)"
     title="Extruded City: Geospatial Coding With Möbius Modeller"
     proceedings="Applied Urban Modelling 2018"
 %}
 
 {% include ref-conf.html
-
     authors="Wang, L|Janssen, P|Ji, G"
     year="2018"
     date="May 17-19"
     place="Beijing, China"
-    pages="(accepted)"
+    pages="163-172"
     title="Efficiency versus Effectiveness: A Study on Constraint Handling for Architectural Evolutionary Design"
     proceedings="Proceedings of CAADRIA 2018"
     cumincad_id="caadria2018_199"
@@ -28,12 +144,11 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Lim, J|Janssen, P|Stouffs, R"
     year="2018"
     date="May 17-19"
     place="Beijing, China"
-    pages="(accepted)"
+    pages="61-70"
     title="Automated Generation of BIM Models from 2D CAD Drawings"
     proceedings="Proceedings of CAADRIA 2018"
     cumincad_id="caadria2018_268"
@@ -41,7 +156,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chen, KW|Janssen, P|Norford, L"
     year="2017"
     date="July 12-14"
@@ -54,7 +168,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chen, KW|Janssen, P|Norford, L"
     year="2017"
     date="July 12-14"
@@ -67,7 +180,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P"
     year="2017"
     date="5-8 April"
@@ -80,7 +192,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Stouffs, R|Mohanty, A|Tan, E|Li, R"
     year="2016"
     date="22-26 August"
@@ -93,7 +204,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Chen, KW|Mohanty, A"
     year="2016"
     date="22-26 August"
@@ -106,7 +216,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Li, R|Mohanty, A"
     year="2016"
     date="22-26 August"
@@ -119,7 +228,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chen, KW|Janssen, P"
     year="2015"
     date="16-18 September"
@@ -132,7 +240,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Choo, TS|Janssen, P"
     year="2015"
     date="20-22 May"
@@ -145,7 +252,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P"
     year="2015"
     date="20-22 May"
@@ -158,7 +264,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Stouffs, R"
     year="2015"
     date="20-22 May"
@@ -171,7 +276,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Kaushik, V|Janssen, P"
     year="2015"
     date="16-18 September"
@@ -184,7 +288,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chian, E|Janssen, P"
     year="2014"
     date="14-17 May"
@@ -197,7 +300,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Choo, TS|Chen, KW|Janssen, P"
     year="2014"
     date="23-24 June"
@@ -209,7 +311,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P"
     year="2014"
     date="10-12 September"
@@ -222,7 +323,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Kaushik, V"
     year="2014"
     date="14-17 May"
@@ -235,7 +335,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Kaushik, V"
     year="2014"
     date="14-17 May"
@@ -249,7 +348,6 @@ title: Conference Papers
 
 
 {% include ref-conf.html
-
     authors="Janssen, P|Stouffs, R"
     year="2014"
     date="10-12 September"
@@ -262,7 +360,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Zhang, R|Janssen, P"
     year="2014"
     date="14-17 May"
@@ -275,7 +372,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chee, ZJ|Janssen, P"
     year="2013"
     date="15-18 May"
@@ -288,7 +384,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chen, KW|Janssen, P|Schlueter, A"
     year="2013"
     date="15-18 May"
@@ -301,7 +396,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chen, KW|Schlueter, A|Janssen, P"
     year="2013"
     date="26-29 August"
@@ -313,7 +407,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Choo, TS|Janssen, P"
     year="2013"
     date="15-18 May"
@@ -326,7 +419,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Choo, TS|Ouyang, J|Janssen, P"
     year="2013"
     date="9-10 September"
@@ -338,7 +430,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P"
     year="2013"
     date="18-20 September"
@@ -351,7 +442,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Kaushik, V"
     year="2013"
     date="13-16 September"
@@ -363,7 +453,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Kaushik, V"
     year="2013"
     date="15-18 May"
@@ -376,7 +465,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Kaushik, V"
     year="2013"
     date="3-5 April"
@@ -388,7 +476,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Kaushik, V|Janssen, P"
     year="2013"
     date="15-18 May"
@@ -401,7 +488,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Ong, EHF|Janssen, P|Lo, TT"
     year="2013"
     date="15-18 May"
@@ -414,7 +500,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Shuvo, FK|Janssen, P"
     year="2013"
     date="15-18 May"
@@ -427,7 +512,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chen, KW|Janssen, P|Schlueter, A"
     year="2012"
     date="6-7 September"
@@ -439,7 +523,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Chen, KW|Schlueter, A|Janssen, P"
     year="2012"
     date="21-23 November"
@@ -451,7 +534,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Kaushik, V"
     year="2012"
     date="12-14 September"
@@ -464,7 +546,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Stouffs, R|Chaszar, A|Boeykens, S|Toth, B"
     year="2012"
     date="4-6 July"
@@ -476,7 +557,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Kaushik, V|Janssen, P"
     year="2012"
     date="25-28 April"
@@ -489,7 +569,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Toth, B|Boeykens, S|Chasar, A|Janssen, P|Stouffs, R"
     year="2012"
     date="25-28 April"
@@ -502,7 +581,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Zhang, J|Heng, CK|Malone-Lee, LC|Huang, YC|Hii, DJC|Janssen, P|Nazim, I"
     year="2012"
     date="1-3 August"
@@ -514,7 +592,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Hii, DJC|Heng, CK|Malone-Lee, LC|Zhang, J|Nazim, I|Huang, YC|Janssen, P"
     year="2011"
     date="14-16 November"
@@ -526,7 +603,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Chen, KW"
     year="2011"
     date="21-24 September"
@@ -539,7 +615,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Chen, KW"
     year="2011"
     date="4-8 July"
@@ -552,7 +627,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Chen, KW|Basol, C"
     year="2011"
     date="21-24 September"
@@ -565,7 +639,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Ladouce, N|Hee, L|Janssen, P"
     year="2010"
     date="15-18 September"
@@ -578,7 +651,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Zhang, J|Heng, CK|Hii, D|Janssen, P|Malone-Lee, LC|Tan, BK"
     year="2010"
     date="15-18 September"
@@ -591,7 +663,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P"
     year="2009"
     date="17-19 June"
@@ -604,7 +675,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2005"
     date="15-17 June"
@@ -616,7 +686,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2005"
     date="28-30 April"
@@ -629,7 +698,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2004"
     date="18-21 February"
@@ -641,7 +709,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2003"
     date="8-10 October"
@@ -653,7 +720,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2003"
     date="3-5 July"
@@ -665,7 +731,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Frazer, J|Frazer, J|Liu, X|Tang, MX|Janssen, P"
     year="2002"
     date="11-13 December"
@@ -677,7 +742,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2001"
     date="19-21 April"
@@ -690,7 +754,6 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2001"
     date="5-7 October"
@@ -702,21 +765,18 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
-
     authors="Janssen, P|Frazer, J|Tang, MX"
     year="2000"
     date="22-25 August"
     place="Nijkerk, The Netherlands"
     pages="190–200"
-    title="Evolutionary Design Systems: A Conceptual Framework for the Creation of
-Generative Processes"
+    title="Evolutionary Design Systems: A Conceptual Framework for the Creation of Generative Processes"
     proceedings="Proceedings of DDSS 2000"
     researchgate_id="261288812"
     cumincad_id="ddssar0014"
 %}
 
 {% include ref-conf.html
-
     authors="Ceccato, C|Janssen, P"
     year="2000"
     date="22-24 June"

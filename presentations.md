@@ -19,6 +19,7 @@ title: Presentations
 
 ## Invited Lectures
 
+- Janssen, P., (2020). Invited Lecture, "Mobius Evolver", Future Cities Summit, Istanbul, Turkey, 20-21 May, 2021.
 - Janssen, P., (2018). Invited Lecture, "The Future of Design Computation", Tsinghua University, Beijing, China, 14 May, 2018.
 - Janssen, P., (2017). Invited Lecture, "Generative Design and Automated Options", Building Construction Authority, 25 August, 2017.
 - Janssen, P., (2016). Invited Lecture, "Towards Generative and Evaluative Feedback in Urban Planning", 3D Geoinformation Group, Faculty of Architecture, TU Delft, The Netherlands, 21 December, 2016.

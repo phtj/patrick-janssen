@@ -9,6 +9,59 @@ Department of Architecture, National University of Singapore
 
 June 2008 - ongoing
 
+### 2021/2022 Semester 2
+
+- AR2524: BArch Spatial Computational Thinking (Year 2, 360 students)
+- AR3722: Building Environmental Systems Modelling (BIM Modelling) (year 3)
+- AR5807/AR5808: MArch Design Thesis Studio (Year 5)
+- Edx MOOC: Spatial Computational Thinking - Procedural Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Generative Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Performative Modelling (Worldwide)
+
+### 2021/2022 Semester 1
+
+- AR5806: MArch Design Thesis Studio (Year 5)
+- AR5801/AR5805: Design Studio (Year 4)
+- Edx MOOC: Spatial Computational Thinking - Procedural Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Generative Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Performative Modelling (Worldwide)
+
+### 2020/2021 Semester 2
+
+- AR2524: BArch Spatial Computational Thinking (Year 2)
+- AR3721: Building Environmental Systems Modelling (BIM Modelling) (year 3)
+- AR5802: Design Studio (Year 4)
+- AR5807/AR5808: MArch Design Thesis Studio (Year 5)
+- Edx MOOC: Spatial Computational Thinking - Procedural Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Semantic Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Generative Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Performative Modelling (Worldwide)
+
+### 2020/2021 Semester 1
+
+- AR5802/AR5804: 4th Year Studio (Year 4)
+- AR5805/AR5806: MArch Design Thesis Studio (Year 5)
+- Edx MOOC: Spatial Computational Thinking - Procedural Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Semantic Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Generative Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Performative Modelling (Worldwide)
+
+### 2019/2020 Semester 2
+
+- AR3721: Building Environmental Systems Modelling (BIM Modelling) (year 3)
+- AR5802/AR5804: 4th Year Studio (Year 4)
+- AR5807/AR5808: MArch Design Thesis Studio (Year 5)
+- AR5953H: Elective - Urban Prototyping (Year 4 and 5)
+- Edx MOOC: Spatial Computational Thinking - Procedural Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Semantic Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Generative Modelling (Worldwide)
+- Edx MOOC: Spatial Computational Thinking - Performative Modelling (Worldwide)
+
+### 2019/2020 Semester 1
+
+- AR2524: BArch Spatial Computational Thinking (Year 2)
+- AR5805/AR5806: MArch Design Thesis Studio (Year 5)
+
 ### 2018/2019 Semester 2
 
 - AR3002: Design Studio (Year 3)
@@ -18,7 +71,7 @@ June 2008 - ongoing
 ### 2018/2019 Semester 1
 
 - AR5953a: Elective - Urban Prototyping (Year 4/5)
-- AR3721: Environmental Systems (BIM)
+- AR3721: Building Environmental Systems Modelling (BIM)
 - AR4101/AR4103: Design Studio (Year 4)
 - Workshop: ArchiCAD Workshop (Year 3)
 - Workshop: Rhino Workshop (Year 2)

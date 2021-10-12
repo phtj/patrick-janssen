@@ -14,6 +14,7 @@ title: Service
 
 ## Paper Selection Committee
 
+- 2021: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2021).
 - 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2018).
 - 2017: Chair of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2017).
 - 2018: Member of the Paper Selection Committee for the Conference on Computer Aided Architectural Design Research in Asia (CAADRIA 2013).
@@ -39,7 +40,10 @@ title: Service
 
 ## Service as Examiner
 
-- 2018: Robert Doe, Integration of COmputational Design Tools in The Design and Production of Prefabricated Homes, The University of Sydney, January 2018.
+- 2021: Chen Jielin, Towards Architectural Design Space Interpretation: A New Paradigm of Architectural Generative Design, PhD Qualifying Exam, National University of Singapore (NUS), November 2021.
+- 2019: Daniel Kuai Yu, Parametric Infrastructure Planning via Artificial Organic Simulations through
+Topographical Analysis, MPhil Thesis, The University of New South Wales, April 2019.
+- 2018: Robert Doe, Integration of COmputational Design Tools in The Design and Production of Prefabricated Homes, PhD Thesis, The University of Sydney, January 2018.
 - 2017: Liu Yuezhong, Data Mining For Performance Simulation to Support Urban Design, PhD Qualifying Exam, National University of Singapore (NUS), January 2017.
 - 2016: Ruwan Amila Fernando, Representations for evolutionary design modelling, PhD Thesis, Queensland University of Technology (QUT), August 2013.
 - 2015: Liu Yuezhong, Integrate Simulation and Requisite Data Technologies in Urban Prototyping, PhD Qualifying Exam, National University of Singapore (NUS), March  2015.
@@ -50,6 +54,7 @@ title: Service
 
 ## Service as Conference Session Chair
 
+- 2021: Janssen, P. (2021). Session Chair at the 26th Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2018).
 - 2018: Janssen, P. (2018). Session Chair at the 23rd Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2018), Session 6C - Adaptive Materials and Kinetic Architecture, 19th May 2018, Beijing, China.
 - 2016: Janssen, P. (2016). Session Chair at the 21st Annual Conference on Computer-Aided Architecture Design Research in Asia (CAADRIA 2016), Session 3A: Computational Design Analysis, 24th August 2016, Melbourne, Australia.
 - 2016: Janssen, P. (2016). Session Chair at the 34th Annual Conference on Education and Research in Computer Aided Architectural Design in Europe (eCAADe 2016), Session C2: DESIGN TOOLS \| Evaluations, 31st March 2016, Oulu, Finland.
@@ -63,5 +68,7 @@ title: Service
 
 ## Others
 
+ - 2021: Invited member of the BCA Technical Committee for IDD Awards 2021, to recognise AEC
+firms and projects for their outstanding IDD adoption and project teams’ efforts.
 - 2015 – ongoing: Invited lectures at Building Construction Authority of Singapore (BCA) as part of a seminar series on Parametric BIM.
 - 2015: Organisation Committee and Design Tutor, International Forum on Urbanism (IFoU) Winter School, National University of Singapore, 12-23 January 2013.
