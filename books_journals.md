@@ -103,7 +103,7 @@ title: Books and Journals
     smlfile="kw_autocon_sml.png" file="kw_autocon.png"
     authors ="Chen, KW|Janssen, P|Schlueter, A"
     year="2018"
-    pages="(accepted)"
+    pages="449-457"
     title="Multi-Objective Optimisation of Building Form, Envelope and Cooling System for Improved Building Energy Performance"
     journal="Automation in Construction"
 %}
@@ -113,7 +113,7 @@ title: Books and Journals
     authors="Wang, L|Janssen, P|Ji, G"
     year="2018"
     volume="8"
-    pages="(accepted)"
+    pages="177-194"
     title="Utility of Evolutionary Design in Architecture: An Investigation into Constraint Handling Strategies"
     journal="Design Computing and Cognition (DCC’18)"
 
