@@ -57,6 +57,9 @@ title: Service
 - 2021: Chen Jielin, Towards Architectural Design Space Interpretation: A New Paradigm of
   Architectural Generative Design, PhD Qualifying Exam, National University of Singapore (NUS),
   November 2021.
+- 2021: Martin Miguel, Physically-Based Modelling of Interactions Between a Building and its Outdoor
+  Conditions at the Urban Microscale, PhD Exam, National University of Singapore (NUS), January
+  2021.
 - 2019: Daniel Kuai Yu, Parametric Infrastructure Planning via Artificial Organic Simulations
   through Topographical Analysis, MPhil Thesis, The University of New South Wales, April 2019.
 - 2018: Robert Doe, Integration of COmputational Design Tools in The Design and Production of
