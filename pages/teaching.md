@@ -19,7 +19,7 @@ June 2008 - ongoing
 ### 2021/2022 Semester 2
 
 - AR2524: BArch Spatial Computational Thinking (Year 2, 360 students)
-- AR3722: Building Environmental Systems Modelling (BIM Modelling) (year 3)
+- AR3721: Building Environmental Systems Modelling (BIM Modelling) (year 3)
 - AR5807/AR5808: MArch Design Thesis Studio (Year 5)
 - Edx MOOC: Spatial Computational Thinking - Procedural Modelling (Worldwide)
 - Edx MOOC: Spatial Computational Thinking - Generative Modelling (Worldwide)
