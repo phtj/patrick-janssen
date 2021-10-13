@@ -156,6 +156,16 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
+    authors="Stouffs, R|Janssen, P|Zhang, Y"
+    year="2018"
+    date="April 2-6"
+    place="Porto, Portugal"
+    title="Potentiality Analysis for Urban Planning"
+    proceedings="4th International Symposium on Formal Methods in Architecture"
+    researchgate_id="333825490"
+%}
+
+{% include ref-conf.html
     authors="Chen, KW|Janssen, P|Norford, L"
     year="2017"
     date="July 12-14"

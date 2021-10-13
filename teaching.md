@@ -3,7 +3,14 @@ title: Teaching
 ---
 # Teaching
 
-## Singapore
+## Edx MOOCs
+
+- [Professional Certificate Programme in Spatial Computational Thinking](https://www.edx.org/professional-certificate/nus-spatial-computational-thinking)
+- [Spatial Computational Thinking: Procedural Modelling](https://www.edx.org/course/procedural-modelling)
+- [Spatial Computational Thinking: Generative Modelling](https://www.edx.org/course/generative-modelling)
+- [Spatial Computational Thinking: Performative Modelling](https://www.edx.org/course/performative-modelling)
+
+## National University of Singapore
 
 Department of Architecture, National University of Singapore 
 
