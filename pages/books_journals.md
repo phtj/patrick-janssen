@@ -113,6 +113,7 @@ title: Books and Journals
     pages="(to appear)"
     title="Mobius Evolver: Competitive Exploration of Urban Massing Strategies Using Cloud Computing"
     journal="Artificial Intelligence in Urban Planning and Design: Technologies, Implementation, and Impacts"
+    researchgate_id="tmp_id"
 %}
 
 {% include ref-journal.html
@@ -170,7 +171,7 @@ title: Books and Journals
     pages="336-356"
     volume="17"
     issue="4"
-    title="Geospatial tool-chains: Planning support systems for organisational teams"
+    title="Geospatial Tool-Chains: Planning Support Systems for Organisational Teams"
     journal="International Journal of Architectural Computing"
     doi="10.1177/1478077119891569"
     researchgate_id="337807173"
