@@ -13,6 +13,7 @@ title: Conference Papers
     proceedings="Proceedings of CAADRIA 2021"
     cumincad_id="caadria2021_116"
     researchgate_id="355183712"
+    link="https://tinyurl.com/sharing-my-backyard"
 %}
 
 {% include ref-conf.html
@@ -25,6 +26,7 @@ title: Conference Papers
     proceedings="Proceedings of CAADRIA 2021"
     cumincad_id="caadria2021_097"
     researchgate_id="355183885"
+    link="https://www.ctysketch.com/"
 %}
 
 {% include ref-conf.html
