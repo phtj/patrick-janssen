@@ -37,7 +37,7 @@ The thesis is a 6 months design studio project, the final project of the Masters
 - 2020/2021 Matthew Lee: [Post Spaces](https://jy-matt.github.io/post.spaces/thesis-index.html)
 - 2020/2021 Derek Pung: [CtySketch](https://www.ctysketch.com/)
 
-- 2019/2020 Li Wenyu
+- 2019/2020 Li Wenyu: High-Speed Rail City
 
 - 2018/2019 Lee Han Jie: Low Carbon Island
 

@@ -9,7 +9,7 @@ title: Links
 
 ## Design Automation Lab
 - [Design Automation Lab Website](http://design-automation.net)
-- [GitHub repository](https://github.com/phtj)
+- [Design Automation Lab GitHub repository](https://github.com/design-automation)
 
 ## TU Delft
 - [TU Delft Faculty of Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment)
@@ -17,10 +17,9 @@ title: Links
 - [TU Delft 3D Geoinformation](https://3d.bk.tudelft.nl/)
 
 ## Others
-- [Co-Principal Investigator of Big Data-Informed Urban Design and Governance, ETH Future Cities Laboratory](http://www.fcl.ethz.ch/people/CoreTeam/PatrickJanssen.html)
-- [Member, BIM Centre of Excellence, NUS](http://www.sde.nus.edu.sg/bimcoe/)
-- [Member, Urban Prototyping Custer, NUS](http://sde.nus.edu.sg/rsh/UrbanPrototyping/SDE_UP_index.html)
-- [Co-PI, Centre for Sustainable Asian Cities, NUS](http://www.sde.nus.edu.sg/csac/)
+- [Profile on ETH Future Cities Laboratory](https://frs.ethz.ch/people/PI/PatrickJanssen.html)
+- [Co-Principal Investigator on Responsive Cities, ETH Future Cities Laboratory](https://fcl.ethz.ch/research/fcl-phase2/responsive-cities.html)
+- [Co-Principal Investigator on Big Data-Informed Urban Design and Governance, ETH Future Cities Laboratory](https://fcl.ethz.ch/research/fcl-phase2/responsive-cities/big-data-informed-urban-design.html)
 
 ## Networks
 - [Orchid ID](http://orcid.org/0000-0002-2013-7122), 0000-0002-2013-7122
@@ -32,5 +31,3 @@ title: Links
 - [Publons](https://publons.com/author/1395470/patrick-janssen)
 - [LinkedIn](https://www.linkedin.com/in/patrickhtjanssen/)
 
-## WeChat
-![Photo](./assets/images/wechat.png)
