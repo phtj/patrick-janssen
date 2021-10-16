@@ -3,7 +3,7 @@ title: Research
 ---
 # Research
 
-See [Design Automation Lab](http://design-automation.net) for more details on the various [software tools and research projects](http://design-automation.net/research.html).
+See [Design Automation Lab](http://design-automation.net) for more details on the various [software tools and research projects](http://design-automation.net/pages/research.html).
 
 ## Projects – Lead PI
 

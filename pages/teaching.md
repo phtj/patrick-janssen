@@ -10,6 +10,19 @@ title: Teaching
 - [Spatial Computational Thinking: Generative Modelling](https://www.edx.org/course/generative-modelling)
 - [Spatial Computational Thinking: Performative Modelling](https://www.edx.org/course/performative-modelling)
 
+## Recent
+
+Recent student work:
+
+- Thesis
+  - 2020/2021 Anna Yenardi: [Sharing a Backyard](https://tinyurl.com/sharing-my-backyard )
+  - 2020/2021 Matthew Lee: [Post Spaces](https://jy-matt.github.io/post.spaces/thesis-index.html)
+  - 2020/2021 Derek Pung: [CtySketch](https://www.ctysketch.com/)
+
+- AR2524 Spatial COmputational Thinking
+  - 2020/2021 AR2524 [Gallery](https://design-automation-edu.github.io/AR2524-AY2021-Gallery/)
+  - 2019/2020 AR2524 [Gallery](https://design-automation-edu.github.io/AR2524-AY2020-Gallery/)
+
 ## National University of Singapore
 
 Department of Architecture, National University of Singapore 

@@ -3,7 +3,7 @@ title: Software
 ---
 ## Software
 
-See [Design Automation Lab](http://design-automation.net) for more details on the various [software tools and research projects](http://design-automation.net/research.html).
+See [Design Automation Lab](http://design-automation.net) for more details on the various [software tools and research projects](http://design-automation.net/pages/research.html).
 
 - 2020 – ongoing: Möbius Evolver. [More information.](https://github.com/design-automation/mobius-evo)
 - 2018 – ongoing: Möbius Modeller Platform – Möbius Modeller and related tools. [More information.](http://design-automation.net/software/mobius.html)

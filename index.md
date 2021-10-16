@@ -4,12 +4,12 @@ title: Home
 
 ![Photo](./assets/images/1-IMG_4903.JPG)
 
-Dr Patrick is Associate Professor at the Department of Architecture at the
-National University of Singapore and director of the Design Automation Laboratory. He is
-Adjunct Associate Professor in Automation in Urban Planning and Design at the 3D GeoInformation
-research group at the Department of Urbanism, Faculty of Architecture and the Built Environment at
-TU Delft. He is co-​investigator in the Digital Twin-​Enabled System Resilience module at the
-Future Resilient Systems, ETH Zurich.
+Dr Patrick Janssen is Associate Professor at the Department of Architecture at the National
+University of Singapore and director of the [Design Automation
+Laboratory](https://design-automation.net). He is Adjunct Associate Professor in Automation in Urban
+Planning and Design at the 3D GeoInformation research group at the Department of Urbanism, Faculty
+of Architecture and the Built Environment at TU Delft. He is co-​investigator in the Digital
+Twin-​Enabled System Resilience module at the Future Resilient Systems, ETH Zurich.
 
 Dr Janssen researches computational methods and tools for design exploration and optimisation at the
 urban scale. Key focus areas are parametric modelling and evolutionary optimisation.
@@ -21,11 +21,22 @@ open-​source tools for 3D design modelling and optimisation, leveraging the po
 computing. Other areas of research include Geospatial Modelling (GIS), Building Information
 Modelling (BIM), Virtual Reality (VR), and Participatory Design (PD). 
 
+## The Möbius Ecosystem
+
+The Design AUtomation Laboratory is developing the Möbius Ecosystem.
+
+The Möbius Ecosystem encompasses various open-source tools and libraries for supporting spatial
+computational thinking. At the core of this ecosystem is Möbius Modeller, a parametric modelling
+application for the web. 
+
+* [The Möbius Ecosystem](https://mobius.design-automation.net).
+* [The latest version of Mobius Modeller](https://mobius-08.design-automation.net).
+
 ## Research interests
 
 - Parametric Modelling
 - Evolutionary Optimisation
-- Geospatial Modelling
+- Geospatial Modelling (GIS)
 - Building Information Modelling (BIM)
 - Virtual Reality (VR)
 - Participatory Design (PD)
