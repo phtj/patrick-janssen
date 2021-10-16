@@ -19,7 +19,7 @@ Recent student work:
   - 2020/2021 Matthew Lee: [Post Spaces](https://jy-matt.github.io/post.spaces/thesis-index.html)
   - 2020/2021 Derek Pung: [CtySketch](https://www.ctysketch.com/)
 
-- AR2524 Spatial COmputational Thinking
+- AR2524 Spatial Computational Thinking
   - 2020/2021 AR2524 [Gallery](https://design-automation-edu.github.io/AR2524-AY2021-Gallery/)
   - 2019/2020 AR2524 [Gallery](https://design-automation-edu.github.io/AR2524-AY2020-Gallery/)
 

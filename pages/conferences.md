@@ -66,6 +66,18 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
+    authors="Pung, D|Bui, TDP|Janssen, P"
+    year="2020"
+    date="August 5-6"
+    place="Bangkok, Thailand"
+    pages="323-332"
+    title="Automated Grading of Parametric Modelling Assignments - A Spatial Computational Thinking Course"
+    proceedings="Proceedings of CAADRIA 2020"
+    cumincad_id="caadria2020_048"
+    researchgate_id="355338440"
+%}
+
+{% include ref-conf.html
     authors="Alva, P|Janssen, P|Stouffs, R"
     year="2019"
     date="April 15-18"
