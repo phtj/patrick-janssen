@@ -108,7 +108,7 @@ title: Books and Journals
 
 
 {% include ref-journal.html
-    authors ="Janssen, P|Tung, BDP|Wang, L"
+    authors ="Janssen, P|Bui, TDP|Wang, L"
     year="2022"
     pages="(to appear)"
     title="Mobius Evolver: Competitive Exploration of Urban Massing Strategies Using Cloud Computing"
