@@ -14,6 +14,11 @@ title: CV
 - 1995: AA Diploma, Architectural Association School of Architecture
 - 1991: BA (Hons) Architecture, University of Manchester
 
+## Research Exchange
+
+- 2016: Five month sabbatical at [The Why Factory](http://thewhyfactory.com/) (Professor [Winy Maas](https://www.mvrdv.nl/en/about/principal-architects/winy-maas)), TU Delft.
+- 2015: Three months collaborative research visit to the [Chair of Information Architecture](http://www.ia.arch.ethz.ch/) (Prof [Gerhard Schmitt](http://www.fcl.ethz.ch/people/CoreTeam/GerhardSchmitt.html)), ETH Zurich.
+
 ## Appointments
 
 - 2017 – ongoing: Adjunct Associate Professor, TU Delft (Automation in Urban Planning and Design)
@@ -36,8 +41,3 @@ title: CV
 
 - 2005 – 2006: Postdoctoral Fellow at School of Design, Hong Kong Polytechnic University.
 - 1999 – 2005: PhD at School of Design, Hong Kong Polytechnic University. Supervisors: Prof [John Frazer](http://www.johnfrazer.com/) and Prof Ming-Xi Tang (External examiners: Prof Tom Maver and Prof Jin-Yeu Tsou).
-
-## Research Exchange
-
-- 2016: Five month sabbatical at [The Why Factory](http://thewhyfactory.com/) (Professor [Winy Maas](https://www.mvrdv.nl/en/about/principal-architects/winy-maas)), TU Delft.
-- 2015: Three months collaborative research visit to the [Chair of Information Architecture](http://www.ia.arch.ethz.ch/) (Prof [Gerhard Schmitt](http://www.fcl.ethz.ch/people/CoreTeam/GerhardSchmitt.html)), ETH Zurich.

@@ -23,14 +23,14 @@ Modelling (BIM), Virtual Reality (VR), and Participatory Design (PD).
 
 ## The Möbius Ecosystem
 
-The Design AUtomation Laboratory is developing the Möbius Ecosystem.
+Dr Janssen is leading the development of The Möbius Ecosystem.
 
 The Möbius Ecosystem encompasses various open-source tools and libraries for supporting spatial
 computational thinking. At the core of this ecosystem is Möbius Modeller, a parametric modelling
 application for the web. 
 
 * [The Möbius Ecosystem](https://mobius.design-automation.net).
-* [The latest version of Mobius Modeller](https://mobius-08.design-automation.net).
+* [The latest version of Möbius Modeller](https://mobius-08.design-automation.net).
 
 ## Research interests
 
