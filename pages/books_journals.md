@@ -113,7 +113,28 @@ title: Books and Journals
     pages="(to appear)"
     title="Mobius Evolver: Competitive Exploration of Urban Massing Strategies Using Cloud Computing"
     journal="Artificial Intelligence in Urban Planning and Design: Technologies, Implementation, and Impacts"
-    researchgate_id="tmp_id"
+    researchgate_id="_mob_evo"
+%}
+
+{% include ref-journal.html
+    authors ="Wang, L|Ji, G|Tong, Z|Janssen, P"
+    year="2021"
+    pages="(to appear)"
+    title="EvoMass – Performance-based Building Massing Design Optimization and Exploration, Xinjianzhu/New Architecture"
+    journal="Xinjianzhu/New Architecture"
+    researchgate_id="_evomass"
+%}
+
+{% include ref-journal.html
+    authors ="Chen, J|Alva, P|Stouffs, R|Janssen, P"
+    year="2021"
+    pages="16-23"
+    volume="2"
+    title="Agile Automated Modelling: A Novel Geo-computational Methodology for Automating Planning Tasks"
+    journal="Xinjianzhu/New Architecture"
+    doi="10.12069/j.na.202102016"
+    researchgate_id="345918816"
+    link="https://d.wanfangdata.com.cn/periodical/xjz202102003"
 %}
 
 {% include ref-journal.html
