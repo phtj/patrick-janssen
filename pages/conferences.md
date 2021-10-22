@@ -54,6 +54,18 @@ title: Conference Papers
 %}
 
 {% include ref-conf.html
+    authors="Lee, HJ|Lin, Z|Zhang, J|Janssen, P"
+    year="2020"
+    date="August 5-6"
+    place="Bangkok, Thailand"
+    pages="803-812"
+    title="Irradiance Mapping for Large Scale City Models"
+    proceedings="Proceedings of CAADRIA 2020"
+    cumincad_id="caadria2020_047"
+    researchgate_id="355474872"
+%}
+
+{% include ref-conf.html
     authors="Alva, P|Lee, HJ|Lin, Z|Mehta, P|Chen, J|Janssen, P"
     year="2020"
     date="August 5-6"
