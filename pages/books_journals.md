@@ -318,6 +318,18 @@ title: Books and Journals
 %}
 
 {% include ref-journal.html
+    authors="Bhatt, A|Janssen, P|Schoch, O"
+    year="2008"
+    volume="6"
+    issue="4"
+    pages="3–4"
+    title="Editorial"
+    journal="International Journal of Architectural Computing"
+    researchgate_id="262932088"
+    link="http://journals.sagepub.com/doi/pdf/10.1260/147807708787523268"
+%}
+
+{% include ref-journal.html
 
     authors="Janssen, P"
     year="2006"
@@ -381,18 +393,8 @@ title: Books and Journals
     link="https://link.springer.com/article/10.1023/A%3A1013618703385"
 %}
 
-## Editorials
 
-{% include ref-journal.html
-    authors="Bhatt, A|Janssen, P|Schoch, O"
-    year="2008"
-    volume="6"
-    issue="4"
-    pages="3–4"
-    title="Editorial Editorial Editorial Editorial"
-    journal="International Journal of Architectural Computing"
-    researchgate_id="262932088"
-    link="http://journals.sagepub.com/doi/pdf/10.1260/147807708787523268"
-%}
+
+
 
 
