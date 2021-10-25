@@ -113,7 +113,7 @@ title: Books and Journals
     pages="(to appear)"
     title="Mobius Evolver: Competitive Exploration of Urban Massing Strategies Using Cloud Computing"
     journal="Artificial Intelligence in Urban Planning and Design: Technologies, Implementation, and Impacts"
-    researchgate_id="_mob_evo"
+    researchgate_id="x_mob_evo"
 %}
 
 {% include ref-journal.html
@@ -122,7 +122,7 @@ title: Books and Journals
     pages="(to appear)"
     title="EvoMass – Performance-based Building Massing Design Optimization and Exploration, Xinjianzhu/New Architecture"
     journal="Xinjianzhu/New Architecture"
-    researchgate_id="_in_progress"
+    researchgate_id="x_in_progress"
 %}
 
 {% include ref-journal.html
