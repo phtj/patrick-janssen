@@ -133,7 +133,7 @@ title: Books and Journals
     title="Agile Automated Modelling: A Novel Geo-computational Methodology for Automating Planning Tasks"
     journal="Xinjianzhu/New Architecture"
     doi="10.12069/j.na.202102016"
-    researchgate_id="345918816"
+    researchgate_id="355263184"
     link="https://d.wanfangdata.com.cn/periodical/xjz202102003"
 %}
 
