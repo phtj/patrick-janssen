@@ -12,12 +12,12 @@ HDB (SGD $349K).
 [More information.](http://design-automation.net/projects/hdb_opt.html)
 - 2021 - 2022: Lead-PI, "VR for Spatial Computational Thinking", NUS LIFT ($91K). 
 [More information.](http://design-automation.net/projects/comp_think_vr.html)
-- 2019 - 2021: Lead-PI, "Spatial Computational Thinking", NUS LIFT ($91K). 
+- 2019 - 2021: Lead-PI, "Spatial Computational Thinking", NUS LIFT ($67K). 
 [More information.](http://design-automation.net/projects/comp_think_moocs.html)
 - 2019 - 2021: Lead-PI, "Reflective Intelligence Amplification: Tackling Wicked Problems Through 
 Dynamic Search Space Exploration", AI-SG ($100K). 
 [More information.](http://design-automation.net/projects/mobius_evo.html)
-- 2019 - 2020: Lead-PI, "Irradiance Mapping for Large-Scale City Models", NUS SERIS ($10K).
+- 2019 - 2020: Lead-PI, "Irradiance Mapping for Large-Scale City Models", NUS SERIS ($11K).
 [More information.](http://design-automation.net/projects/irradiance_mapping.html)
 - 2018 – 2020: Lead-PI, "Parametric Urban Modelling for JTC’s Jurong Vision, Phase 2", 
 NUS (SGD $135K), Co-PIs: Assoc. Prof. Rudi Stouffs, Assist. Prof. Zhang Ye. 

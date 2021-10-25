@@ -254,7 +254,7 @@ title: Conference Papers
 {% include ref-conf.html
     authors="Janssen, P|Li, R|Mohanty, A"
     year="2016"
-    date="22-26 August"
+    date="30 Mar - 2 Apr"
     place="Melbourne, Australia"
     pages="157–166"
     title="Möbius: A Parametric Modeller for the Web"
