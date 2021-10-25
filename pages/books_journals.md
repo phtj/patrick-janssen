@@ -122,7 +122,7 @@ title: Books and Journals
     pages="(to appear)"
     title="EvoMass – Performance-based Building Massing Design Optimization and Exploration, Xinjianzhu/New Architecture"
     journal="Xinjianzhu/New Architecture"
-    researchgate_id="_evomass"
+    researchgate_id="_in_progress"
 %}
 
 {% include ref-journal.html
