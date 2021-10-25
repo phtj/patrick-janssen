@@ -1,96 +1,8 @@
 ---
 title: Books and Journals
 ---
-# Books and Journals
 
-## Books
-
-{% include ref-book.html
-    smlfile="jurong_vision_book.jpg" file="jurong_vision_book_sml.jpg"
-    authors ="Stouffs, R|Janssen, P"
-    year="2017"
-    title="Rethinking Urban Practices: Designing for Jurong Vision 2050"
-    publisher="CASA Centre for Advanced Studies in Architecture, NUS"
-    researchgate_id="319377112"
-%}
-
-{% include ref-book.html
-    authors ="Janssen, P"
-    year="2004"
-    title="A Design Method and Computational Architecture for Generating and Evolving Building Designs"
-    publisher="PhD Thesis, Hong Kong Polytechnic University"
-    researchgate_id="33997941"
-%}
-
-## Editor
-
-<!-- {% include ref-editor.html
-    smlfile="jcde_sml.png" file="jcde.png"
-    authors ="Janssen, P|Herr, C|Stouffs, R"
-    year="2019"
-    title="Special Issue: CAADRIA 2017"
-    series="Journal of Computational Design and Engineering (JCDE)"
-    volume="6"
-    issue="3"
-    link="https://www.journals.elsevier.com/journal-of-computational-design-and-engineering/"
-%} -->
-
-{% include ref-editor.html
-    smlfile="ijac_sml.png" file="ijac.png"
-    authors ="Janssen, P|Herr, C|Stouffs, R"
-    year="2018"
-    title="Special Issue: Protocols, Flows, and Glitches"
-    series="International Journal of Architectural Computing (IJAC)"
-    volume="16"
-    issue="3"
-    researchgate_id="327648205"
-    doi="10.1177/1478077118798934"
-    link="http://journals.sagepub.com/loi/jaca"
-%}
-
-{% include ref-editor.html
-    smlfile="caadria2018_sml.png" file="caadria2018.png"
-    authors ="Fukuda, T|Huang, W|Janssen, P|Crolla, K|Alhadidi, S"
-    year="2018"
-    title="Learning, Adapting and Prototyping"
-    series="Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018)"
-    cumincad_id="caadria2018_000"
-    researchgate_id="325390745"
-%}
-
-{% include ref-editor.html
-    smlfile="caadria2017_sml.png" file="caadria2017.png"
-    authors ="Janssen, P|Loh, P|Raonic, A|Schnabel, MA"
-    year="2017"
-    title="Protocols, Flows, and Glitches"
-    series="Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017)"
-    cumincad_id="caadria2017_000"
-    researchgate_id="316159558"
-%}
-
-{% include ref-editor.html
-    smlfile="caadria2013_sml.png" file="caadria2013.png"
-    authors ="Stouffs, R|Janssen, P|Roudavski, S|Tuncer, B"
-    year="2013"
-    title="Open Systems"
-    series="Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013)"
-    cumincad_id="caadria2013_000"
-    researchgate_id="280931720"
-%}
-
-{% include ref-editor.html
-    smlfile="ijac_sml.png" file="ijac.png"
-    authors ="Bhatt, A|Janssen, P|Schoch, O"
-    year="2008"
-    volume="6"
-    issue="4"
-    series="International Journal of Architectural Computing (IJAC)"
-    researchgate_id=""
-    link="http://journals.sagepub.com/toc/jaca/6/4"
-
-%}
-
-## Journal Papers and Book Chapters
+## Books and Journals
 <!---
 {% include ref-journal.html
 
@@ -103,9 +15,6 @@ title: Books and Journals
     journal="Journal of Building Performance Simulation"
 %}
 -->
-
-
-
 
 {% include ref-journal.html
     authors ="Janssen, P|Bui, TDP|Wang, L"
@@ -246,6 +155,15 @@ title: Books and Journals
     journal="Design Computing and Cognition (DCC’18)"
     researchgate_id="330232748"
     link="https://link.springer.com/chapter/10.1007%2F978-3-030-05363-5_10"
+%}
+
+{% include ref-book.html
+    smlfile="jurong_vision_book.jpg" file="jurong_vision_book_sml.jpg"
+    authors ="Stouffs, R|Janssen, P"
+    year="2017"
+    title="Rethinking Urban Practices: Designing for Jurong Vision 2050"
+    publisher="CASA Centre for Advanced Studies in Architecture, NUS"
+    researchgate_id="319377112"
 %}
 
 {% include ref-journal.html
@@ -393,8 +311,80 @@ title: Books and Journals
     link="https://link.springer.com/article/10.1023/A%3A1013618703385"
 %}
 
+## Editor
 
+<!-- {% include ref-editor.html
+    smlfile="jcde_sml.png" file="jcde.png"
+    authors ="Janssen, P|Herr, C|Stouffs, R"
+    year="2019"
+    title="Special Issue: CAADRIA 2017"
+    series="Journal of Computational Design and Engineering (JCDE)"
+    volume="6"
+    issue="3"
+    link="https://www.journals.elsevier.com/journal-of-computational-design-and-engineering/"
+%} -->
 
+{% include ref-editor.html
+    smlfile="ijac_sml.png" file="ijac.png"
+    authors ="Janssen, P|Herr, C|Stouffs, R"
+    year="2018"
+    title="Special Issue: Protocols, Flows, and Glitches"
+    series="International Journal of Architectural Computing (IJAC)"
+    volume="16"
+    issue="3"
+    researchgate_id="327648205"
+    doi="10.1177/1478077118798934"
+    link="http://journals.sagepub.com/loi/jaca"
+%}
 
+{% include ref-editor.html
+    smlfile="caadria2018_sml.png" file="caadria2018.png"
+    authors ="Fukuda, T|Huang, W|Janssen, P|Crolla, K|Alhadidi, S"
+    year="2018"
+    title="Learning, Adapting and Prototyping"
+    series="Proceedings of the 23rd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2018)"
+    cumincad_id="caadria2018_000"
+    researchgate_id="325390745"
+%}
 
+{% include ref-editor.html
+    smlfile="caadria2017_sml.png" file="caadria2017.png"
+    authors ="Janssen, P|Loh, P|Raonic, A|Schnabel, MA"
+    year="2017"
+    title="Protocols, Flows, and Glitches"
+    series="Proceedings of the 22nd International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2017)"
+    cumincad_id="caadria2017_000"
+    researchgate_id="316159558"
+%}
 
+{% include ref-editor.html
+    smlfile="caadria2013_sml.png" file="caadria2013.png"
+    authors ="Stouffs, R|Janssen, P|Roudavski, S|Tuncer, B"
+    year="2013"
+    title="Open Systems"
+    series="Proceedings of the 18th International Conference on Computer-Aided Architectural Design Research in Asia (CAADRIA 2013)"
+    cumincad_id="caadria2013_000"
+    researchgate_id="280931720"
+%}
+
+{% include ref-editor.html
+    smlfile="ijac_sml.png" file="ijac.png"
+    authors ="Bhatt, A|Janssen, P|Schoch, O"
+    year="2008"
+    volume="6"
+    issue="4"
+    series="International Journal of Architectural Computing (IJAC)"
+    researchgate_id=""
+    link="http://journals.sagepub.com/toc/jaca/6/4"
+
+%}
+
+# PhD
+
+{% include ref-book.html
+    authors ="Janssen, P"
+    year="2004"
+    title="A Design Method and Computational Architecture for Generating and Evolving Building Designs"
+    publisher="PhD Thesis, Hong Kong Polytechnic University"
+    researchgate_id="33997941"
+%}
