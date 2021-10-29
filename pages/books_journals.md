@@ -44,6 +44,7 @@ title: Books and Journals
     doi="10.12069/j.na.202102016"
     researchgate_id="355263184"
     link="https://d.wanfangdata.com.cn/periodical/xjz202102003"
+    no_pdf
 %}
 
 {% include ref-journal.html
