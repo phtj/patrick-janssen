@@ -44,7 +44,6 @@ title: Books and Journals
     doi="10.12069/j.na.202102016"
     researchgate_id="355263184"
     link="https://d.wanfangdata.com.cn/periodical/xjz202102003"
-    no_pdf
 %}
 
 {% include ref-journal.html
@@ -57,6 +56,7 @@ title: Books and Journals
     doi="10.1016/j.autcon.2020.103440"
     researchgate_id="345918816"
     link="https://www.sciencedirect.com/science/article/abs/pii/S0926580520310207"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -94,6 +94,7 @@ title: Books and Journals
     doi="110.5194/isprs-archives-xliv-4-w1-2020-83-2020"
     researchgate_id="344235561"
     link="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIV-4-W1-2020/83/2020/"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -133,6 +134,7 @@ title: Books and Journals
     doi="10.1080/14498596.2019.1658650"
     researchgate_id="336348057"
     link="https://www.tandfonline.com/doi/abs/10.1080/14498596.2019.1658650?journalCode=tjss20"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -165,6 +167,7 @@ title: Books and Journals
     title="Rethinking Urban Practices: Designing for Jurong Vision 2050"
     publisher="CASA Centre for Advanced Studies in Architecture, NUS"
     researchgate_id="319377112"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -175,6 +178,7 @@ title: Books and Journals
     journal="Morphological Analysis of Cultural DNA: Tools for Decoding Culture-Embedded Forms"
     researchgate_id="309738811"
     link="https://www.springer.com/gp/book/9789811023286"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -210,6 +214,7 @@ title: Books and Journals
     journal="Design Computation Cognition (DCC’14)"
     researchgate_id="262932584"
     link="https://www.springer.com/la/book/9783319149554"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -222,6 +227,7 @@ title: Books and Journals
     journal="International Journal of Architectural Computing"
     researchgate_id="259874080"
     link="http://journals.sagepub.com/doi/pdf/10.1260/1478-0771.10.4.481"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -246,6 +252,7 @@ title: Books and Journals
     journal="International Journal of Architectural Computing"
     researchgate_id="262932088"
     link="http://journals.sagepub.com/doi/pdf/10.1260/147807708787523268"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -297,6 +304,7 @@ title: Books and Journals
     journal="Communication and Cognition: Organic Aesthetics and Generative Methods in Architectural Design"
     researchgate_id="27483399"
     link="http://www.e-webtec.com/cc/Journals/CommunicationCognition.htm"
+    has_pdf="true"
 %}
 
 {% include ref-journal.html
@@ -310,6 +318,7 @@ title: Books and Journals
     journal="Applied Intelligence: International Journal of Artificial Intelligence, Neural Networks, and Complex Problem-Solving Technologies"
     researchgate_id="27471242"
     link="https://link.springer.com/article/10.1023/A%3A1013618703385"
+    has_pdf="true"
 %}
 
 ## Editor
@@ -388,4 +397,5 @@ title: Books and Journals
     title="A Design Method and Computational Architecture for Generating and Evolving Building Designs"
     publisher="PhD Thesis, Hong Kong Polytechnic University"
     researchgate_id="33997941"
+    has_pdf="true"
 %}

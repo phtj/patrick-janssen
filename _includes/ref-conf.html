@@ -41,7 +41,7 @@
         {% endif %}
         {% unless include.no_pdf %}
             , <a href="/assets/pdf/{{ include.researchgate_id }}.pdf" target="view">PDF</a>
-        {% endif %}
+        {% endunless %}
         {% if include.link %}
             , <a href="{{ include.link }}" target="view">Link</a>
         {% endif %}
