@@ -14,15 +14,11 @@ title: CV
 - 1995: AA Diploma, Architectural Association School of Architecture
 - 1991: BA (Hons) Architecture, University of Manchester
 
-## Research Exchange
-
-- 2016: Five month sabbatical at [The Why Factory](http://thewhyfactory.com/) (Professor [Winy Maas](https://www.mvrdv.nl/en/about/principal-architects/winy-maas)), TU Delft.
-- 2015: Three months collaborative research visit to the [Chair of Information Architecture](http://www.ia.arch.ethz.ch/) (Prof [Gerhard Schmitt](http://www.fcl.ethz.ch/people/CoreTeam/GerhardSchmitt.html)), ETH Zurich.
-
-## Appointments
+## Appointments and Exchanges
 
 - 2017 – ongoing: Adjunct Associate Professor, TU Delft (Automation in Urban Planning and Design)
 - 2016 – ongoing: Associate Professor, National University of Singapore
+- 2015 - 2015: Three months collaborative research visit to the [Chair of Information Architecture](http://www.ia.arch.ethz.ch/) (Prof [Gerhard Schmitt](http://www.fcl.ethz.ch/people/CoreTeam/GerhardSchmitt.html)), ETH Zurich.
 - 2008 – 2016: Assistant Professor, National University of Singapore
 - 2006 – 2008: Lecturer, University of Melbourne
 - 2005 – 2006: Post-Doc. Fellow, Hong Kong Polytechnic University
@@ -31,9 +27,9 @@ title: CV
 
 ## Administrative Responsibilities
 
-- 2012 – ongoing: Executive Officer and Treasurer of the Association for Computer Aided Architectural Design Research in Asia
-- 2012 – ongoing: Member, BIM Centre of Excellence, Department of Architecture, National University of Singapore
-- 2010 – ongoing: Member, CSAC Centre for Sustainable Asian Cities, National University of Singapore
+- 2012 – 2018: Executive Officer and Treasurer of the Association for Computer Aided Architectural Design Research in Asia
+- 2012 – 2017: Member, BIM Centre of Excellence, Department of Architecture, National University of Singapore
+- 2010 – 2016: Member, CSAC Centre for Sustainable Asian Cities, National University of Singapore
 - 2009 – ongoing: Chair of the IT Committee, Department of Architecture, National University of Singapore
 - 2008 – ongoing: Director, Design Automation Lab, Department of Architecture, National University of Singapore
 
