@@ -60,13 +60,14 @@ LinkedIn:
 - AA Diploma, Architectural Association School of Architecture
 - BA(Arch), University of Manchester
 
-## The Möbius Ecosystem
+## Earlier Work: The Möbius Ecosystem
 
-Dr Janssen led the development of The Möbius Ecosystem at the Design Automation Lab.
+Between 2015 and 2022, Dr Janssen led the development of The Möbius Ecosystem at the Design
+Automation Lab, National University of Singapore.
 
 The Möbius Ecosystem encompasses various open-source tools and libraries for supporting spatial
 computational thinking. At the core of this ecosystem is Möbius Modeller, a parametric modelling
-application for the web. 
+application for the web. The tools remain freely available online:
 
 * [The Möbius Ecosystem](https://mobius.design-automation.net)
 * [The latest version of Möbius Modeller](https://mobius-08.design-automation.net)

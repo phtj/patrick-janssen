@@ -3,7 +3,9 @@ title: Research
 ---
 # Research
 
-See [Design Automation Lab](http://design-automation.net) for more details on the various [software tools and research projects](http://design-automation.net/pages/research.html).
+The research below was carried out at the National University of Singapore between 2008 and 2022.
+The archived [Design Automation Lab](http://design-automation.net) website has more details on the
+various [software tools and research projects](http://design-automation.net/pages/research.html).
 
 ## Projects – Lead PI
 

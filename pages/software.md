@@ -3,10 +3,12 @@ title: Software
 ---
 ## Software
 
-See [Design Automation Lab](http://design-automation.net) for more details on the various 
+The software below was developed at the Design Automation Lab, National University of Singapore,
+between 2008 and 2022. The archived [Design Automation Lab](http://design-automation.net) website
+has more details on the various 
 [software tools and research projects](http://design-automation.net/pages/research.html).
 
-- 2015 – ongoing: The Möbius Ecosystem. 
+- 2015 – 2022: The Möbius Ecosystem. 
   [More information.](https://mobius.design-automation.net)
 - 2010 – 2018: Houdarcs – Houdini Architecture Assets for Performance-Based Design. 
   [More information.](http://design-automation.net/software/houdarcs.html)
