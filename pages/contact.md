@@ -5,22 +5,17 @@ title: Contact
 
 ## Email
 
-- [patrick@janssen.name](mailto:patrick@janssen.name)
+- [patrick.ht.janssen@gmail.com](mailto:patrick.ht.janssen@gmail.com)
+- [patrick.janssen@packhunt.io](mailto:patrick.janssen@packhunt.io)
 
 ## Location
 
-- [Department of Architecture, NUS](http://www.arch.nus.edu.sg/){:target="blank"}
+- [Packhunt](https://packhunt.io){:target="blank"}
 
-The Design Automation Lab  
-Room 05-08 SDE 1  
-Department of Architecture  
-National University of Singapore  
-4 Architecture Drive  
-Singapore  
-
-## Map
-
-{% include googlemap.html %}
+Packhunt  
+Pedro de Medinalaan 11  
+1086 XK Amsterdam  
+The Netherlands  
 
 
 

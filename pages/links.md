@@ -3,18 +3,16 @@ title: Links
 ---
 # Links
 
-## National University of Singapore
-- [NUS School of Design and Environment](http://sde.nus.edu.sg/)
-- [NUS Department of Architecture](http://www.arch.nus.edu.sg/)
+## Packhunt
+- [Packhunt Website](https://packhunt.io)
 
-## Design Automation Lab
+## Design Automation Lab (2008 – 2022)
 - [Design Automation Lab Website](http://design-automation.net)
 - [Design Automation Lab GitHub repository](https://github.com/design-automation)
 
-## TU Delft
-- [TU Delft Faculty of Architecture](https://www.tudelft.nl/en/architecture-and-the-built-environment)
-- [TU Delft Department of Urbanism](https://www.tudelft.nl/en/architecture-and-the-built-environment/about-the-faculty/departments/urbanism/)
-- [TU Delft 3D Geoinformation](https://3d.bk.tudelft.nl/)
+## National University of Singapore (2008 – 2022)
+- [NUS College of Design and Engineering](https://cde.nus.edu.sg/)
+- [NUS Department of Architecture](https://cde.nus.edu.sg/arch/)
 
 ## Others
 - [Profile on ETH Future Cities Laboratory](https://frs.ethz.ch/people/PI/PatrickJanssen.html)

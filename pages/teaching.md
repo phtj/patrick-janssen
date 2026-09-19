@@ -10,9 +10,9 @@ title: Teaching
 - [Spatial Computational Thinking: Generative Modelling](https://www.edx.org/course/generative-modelling)
 - [Spatial Computational Thinking: Performative Modelling](https://www.edx.org/course/performative-modelling)
 
-## Recent
+## Selected Student Work
 
-Recent student work:
+Selected student work from the Department of Architecture, National University of Singapore:
 
 - Thesis
   - 2020/2021 Anna Yenardi: [Sharing a Backyard](https://tinyurl.com/sharing-my-backyard )
@@ -25,9 +25,9 @@ Recent student work:
 
 ## National University of Singapore
 
-Department of Architecture, National University of Singapore 
+Department of Architecture, National University of Singapore
 
-June 2008 - ongoing
+June 2008 - 2022
 
 ### 2021/2022 Semester 2
 

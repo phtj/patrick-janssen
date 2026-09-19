@@ -16,8 +16,9 @@ title: CV
 
 ## Appointments and Exchanges
 
-- 2017 – ongoing: Adjunct Associate Professor, TU Delft (Automation in Urban Planning and Design)
-- 2016 – ongoing: Associate Professor, National University of Singapore
+- Aug 2022 – ongoing: Head of Research, Packhunt, Amsterdam
+- 2017 – 2022: Adjunct Associate Professor, TU Delft (Automation in Urban Planning and Design)
+- 2016 – 2022: Associate Professor, National University of Singapore
 - 2015 - 2015: Three months collaborative research visit to the [Chair of Information Architecture](http://www.ia.arch.ethz.ch/) (Prof [Gerhard Schmitt](http://www.fcl.ethz.ch/people/CoreTeam/GerhardSchmitt.html)), ETH Zurich.
 - 2008 – 2016: Assistant Professor, National University of Singapore
 - 2006 – 2008: Lecturer, University of Melbourne
@@ -30,8 +31,8 @@ title: CV
 - 2012 – 2018: Executive Officer and Treasurer of the Association for Computer Aided Architectural Design Research in Asia
 - 2012 – 2017: Member, BIM Centre of Excellence, Department of Architecture, National University of Singapore
 - 2010 – 2016: Member, CSAC Centre for Sustainable Asian Cities, National University of Singapore
-- 2009 – ongoing: Chair of the IT Committee, Department of Architecture, National University of Singapore
-- 2008 – ongoing: Director, Design Automation Lab, Department of Architecture, National University of Singapore
+- 2009 – 2022: Chair of the IT Committee, Department of Architecture, National University of Singapore
+- 2008 – 2022: Director, Design Automation Lab, Department of Architecture, National University of Singapore
 
 ## Doctoral and Post-Doctoral Studies
 
