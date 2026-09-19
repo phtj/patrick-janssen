@@ -17,21 +17,134 @@ title: Books and Journals
 -->
 
 {% include ref-journal.html
-    authors ="Janssen, P|Bui, TDP|Wang, L"
-    year="2022"
-    pages="(to appear)"
-    title="Mobius Evolver: Competitive Exploration of Urban Massing Strategies Using Cloud Computing"
-    journal="Artificial Intelligence in Urban Planning and Design: Technologies, Implementation, and Impacts"
-    researchgate_id="x_mob_evo"
+    authors="Wang, L|De Luca, F|Janssen, P|Bui, TDP|Chen, KW|Yuan, C"
+    year="2025"
+    volume="115"
+    pages="114413"
+    title="A Cross-Platform Optimization System for Comparative Design Exploration of Competing Concepts and Strategies"
+    journal="Journal of Building Engineering"
+    doi="10.1016/j.jobe.2025.114413"
+    smlfile="jobe2025_sml.png"
+    file="jobe2025.png"
+    link="https://doi.org/10.1016/j.jobe.2025.114413"
 %}
 
 {% include ref-journal.html
-    authors ="Wang, L|Ji, G|Tong, Z|Janssen, P"
-    year="2021"
-    pages="(to appear)"
-    title="EvoMass – Performance-based Building Massing Design Optimization and Exploration, Xinjianzhu/New Architecture"
+    authors="Wang, L|Stouffs, R|Janssen, P"
+    year="2025"
+    volume="33"
+    issue="3"
+    pages="e70028"
+    title="Integrating Computational Design Optimization Into Architectural Design Pedagogy — An Experimental Course for Performance-Based Building Design Optimization and Exploration"
+    journal="Computer Applications in Engineering Education"
+    doi="10.1002/cae.70028"
+    smlfile="caee2025_sml.png"
+    file="caee2025.png"
+    link="https://doi.org/10.1002/cae.70028"
+%}
+
+{% include ref-journal.html
+    authors="Wang, L|Janssen, P|Ji, G"
+    year="2024"
+    volume="13"
+    issue="6"
+    pages="1400-1422"
+    title="Optimization-Based Design Exploration of Building Massing Typologies — EvoMass and a Typology-Oriented Computational Design Optimization Method for Early-Stage Performance-Based Building Massing Design"
+    journal="Frontiers of Architectural Research"
+    doi="10.1016/j.foar.2024.06.001"
+    smlfile="foar2024_sml.png"
+    file="foar2024.png"
+    link="https://doi.org/10.1016/j.foar.2024.06.001"
+%}
+
+{% include ref-journal.html
+    authors="Lei, B|Janssen, P|Stoter, J|Biljecki, F"
+    year="2023"
+    volume="147"
+    pages="104716"
+    title="Challenges of Urban Digital Twins: A Systematic Review and a Delphi Expert Survey"
+    journal="Automation in Construction"
+    doi="10.1016/j.autcon.2022.104716"
+    smlfile="autcon2023_sml.png"
+    file="autcon2023.png"
+    link="https://doi.org/10.1016/j.autcon.2022.104716"
+%}
+
+{% include ref-journal.html
+    authors="Wang, L|Bui, TDP|Janssen, P"
+    year="2023"
+    pages="159-173"
+    title="A Design Ranking Method for Many-Objective Evolutionary Optimization"
+    journal="Computer-Aided Architectural Design. INTERCONNECTIONS: Co-computing Beyond Boundaries (CAAD Futures 2023), Communications in Computer and Information Science, Springer"
+    doi="10.1007/978-3-031-37189-9_11"
+    smlfile="caadfutures2023_sml.png"
+    file="caadfutures2023.png"
+    link="https://doi.org/10.1007/978-3-031-37189-9_11"
+%}
+
+{% include ref-journal.html
+    authors="Wang, L|Janssen, P|Chen, KW"
+    year="2023"
+    pages="699-717"
+    title="Evolutionary Optimization of Benchmarks: Parametric Typologies for Generating Typical Designs"
+    journal="Design Computing and Cognition'22, Springer"
+    doi="10.1007/978-3-031-20418-0_41"
+    smlfile="dcc2022_sml.png"
+    file="dcc2022.png"
+    link="https://doi.org/10.1007/978-3-031-20418-0_41"
+%}
+
+{% include ref-journal.html
+    authors="Janssen, P|Bui, TDP|Wang, L"
+    year="2022"
+    pages="293-321"
+    title="Möbius Evolver: Competitive Exploration of Urban Massing Strategies"
+    journal="Artificial Intelligence in Urban Planning and Design: Technologies, Implementation, and Impacts, Elsevier"
+    doi="10.1016/B978-0-12-823941-4.00015-9"
+    smlfile="x_mob_evo_sml.png"
+    file="x_mob_evo.png"
+    researchgate_id="360760869"
+    link="https://doi.org/10.1016/B978-0-12-823941-4.00015-9"
+%}
+
+{% include ref-journal.html
+    authors="Chen, KW|Janssen, P|Aviv, D|Ninsalam, Y|Meggers, F"
+    year="2022"
+    volume="27"
+    pages="1010-1027"
+    title="A Framework for Considering the Use of Computational Design Technologies in the Built Environment Design Process"
+    journal="Journal of Information Technology in Construction (ITcon)"
+    doi="10.36680/j.itcon.2022.049"
+    smlfile="itcon2022_sml.png"
+    file="itcon2022.png"
+    link="https://doi.org/10.36680/j.itcon.2022.049"
+%}
+
+{% include ref-journal.html
+    authors="Yap, W|Janssen, P|Biljecki, F"
+    year="2022"
+    volume="96"
+    pages="101825"
+    title="Free and Open Source Urbanism: Software for Urban Planning Practice"
+    journal="Computers, Environment and Urban Systems"
+    doi="10.1016/j.compenvurbsys.2022.101825"
+    smlfile="ceus2022_sml.png"
+    file="ceus2022.png"
+    link="https://doi.org/10.1016/j.compenvurbsys.2022.101825"
+%}
+
+
+{% include ref-journal.html
+    authors="Wang, L|Ji, G|Tong, Z|Janssen, P"
+    year="2022"
+    volume="3"
+    pages="84-89"
+    title="Towards Performance-based Building Design Optimization and Exploration: An Introduction to EvoMass (面向建筑性能的设计优化及设计探索——EvoMass工具简介)"
     journal="Xinjianzhu/New Architecture"
-    researchgate_id="x_in_progress"
+    smlfile="xinjianzhu2022_sml.png"
+    file="xinjianzhu2022.png"
+    researchgate_id="361786999"
+    link="https://www.researchgate.net/publication/361786999"
 %}
 
 {% include ref-journal.html

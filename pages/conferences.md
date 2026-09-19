@@ -4,6 +4,111 @@ title: Conference Papers
 # Conference Papers
 
 {% include ref-conf.html
+    authors="Wang, L|Janssen, P|Stouffs, R"
+    year="2023"
+    date="September 20-22"
+    place="Graz, Austria"
+    pages="179-188"
+    title="Teaching Computational Design Optimization: An Experimental Course for Performance-Based Building Massing Exploration"
+    proceedings="Proceedings of eCAADe 2023, Volume 1"
+    cumincad_id="ecaade2023_468"
+    smlfile="ecaade2023_468_sml.png"
+    file="ecaade2023_468.png"
+    no_pdf="true"
+    link="https://doi.org/10.52842/conf.ecaade.2023.1.179"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Janssen, P|Bui, TDP|Chen, KW"
+    year="2023"
+    date="March 21-23"
+    place="Ahmedabad, India"
+    pages="221-230"
+    title="Comparing Design Strategies: A System for Optimization-Based Design Exploration"
+    proceedings="Proceedings of CAADRIA 2023, Volume 1"
+    cumincad_id="caadria2023_22"
+    smlfile="caadria2023_22_sml.png"
+    file="caadria2023_22.png"
+    no_pdf="true"
+    link="https://doi.org/10.52842/conf.caadria.2023.1.221"
+%}
+
+{% include ref-conf.html
+    authors="Janssen, P|Bui, TDP"
+    year="2022"
+    date="September 13-16"
+    place="Ghent, Belgium"
+    pages="475-484"
+    title="VR Panoramas: Visualizing Urban Context Using 360 Spherical Images"
+    proceedings="Proceedings of eCAADe 2022, Volume 2"
+    cumincad_id="ecaade2022_126"
+    smlfile="ecaade2022_126_sml.png"
+    file="ecaade2022_126.png"
+    no_pdf="true"
+    link="https://doi.org/10.52842/conf.ecaade.2022.2.475"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Janssen, P|Bui, TDP|Chen, KW"
+    year="2022"
+    date="September 13-16"
+    place="Ghent, Belgium"
+    pages="619-628"
+    title="A Rapid Design Optimization Framework: Strategies for the Fast Evaluation of Design Options"
+    proceedings="Proceedings of eCAADe 2022, Volume 1"
+    cumincad_id="ecaade2022_129"
+    smlfile="ecaade2022_129_sml.png"
+    file="ecaade2022_129.png"
+    no_pdf="true"
+    link="https://doi.org/10.52842/conf.ecaade.2022.1.619"
+%}
+
+{% include ref-conf.html
+    authors="Wang, L|Janssen, P|Chen, KW"
+    year="2022"
+    date="April 9-15"
+    place="Sydney, Australia"
+    pages="415-424"
+    title="Evolutionary Design of Residential Precincts: A Skeletal Modeling Approach for Generating Building Layout Configurations"
+    proceedings="Proceedings of CAADRIA 2022, Volume 1"
+    cumincad_id="caadria2022_46"
+    smlfile="caadria2022_46_sml.png"
+    file="caadria2022_46.png"
+    no_pdf="true"
+    link="https://doi.org/10.52842/conf.caadria.2022.1.415"
+%}
+
+{% include ref-conf.html
+    authors="Leong, SL|Janssen, P"
+    year="2022"
+    date="April 9-15"
+    place="Sydney, Australia"
+    pages="505-514"
+    title="Participatory Planning: Heritage Conservation Through Co-design and Co-decision"
+    proceedings="Proceedings of CAADRIA 2022, Volume 2"
+    cumincad_id="caadria2022_388"
+    smlfile="caadria2022_388_sml.png"
+    file="caadria2022_388.png"
+    no_pdf="true"
+    link="https://doi.org/10.52842/conf.caadria.2022.2.505"
+%}
+
+{% include ref-conf.html
+    authors="Hu, H|Bui, TDP|Janssen, P"
+    year="2022"
+    date="April 9-15"
+    place="Sydney, Australia"
+    pages="495-504"
+    title="Continuous Adaptability: Web-Based Residential Participatory Design Using Modular Prefabricated Construction"
+    proceedings="Proceedings of CAADRIA 2022, Volume 2"
+    cumincad_id="caadria2022_284"
+    smlfile="caadria2022_284_sml.png"
+    file="caadria2022_284.png"
+    no_pdf="true"
+    link="https://doi.org/10.52842/conf.caadria.2022.2.495"
+%}
+
+{% include ref-conf.html
     authors="Yenardi, AC|Janssen, P"
     year="2021"
     date="May 17-19"

@@ -36,7 +36,7 @@
                 ({{ include.issue }})
             {% endif %},
         {% endif %}
-        pp. {{include.pages}}.
+        {% if include.pages %}pp. {{include.pages}}.{% endif %}
     
         {% if include.researchgate_id %}
             <a href="https://www.researchgate.net/publication/{{ include.researchgate_id }}" target="view">ResearchGate</a>
